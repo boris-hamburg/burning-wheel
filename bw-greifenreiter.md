@@ -1,0 +1,235 @@
+### Big Picture
+Inspiration: Krieg der Rosen  
+Inspiration: Six Duchies  
+Inspiration: Dark Albion
+
+In Angland ist ein schwacher König ist an der Macht. Sein Interesse an der Religion ist größer als an seinem Volk, seinen Regierungsgeschäften. Nervenzusammenbruch. Seine Frau regiert im Hintergrund, mit einem Rat an Beratern, von denen gemunkelt wird, dass viele von ihnen ihre Liebhaber sind.
+
+Zwei Adelsfamilien (Haus A, Haus B) streiten um die Nachfolge.
+
+Die Länder an der Küste werden überfallen, weil die Greifenreiter die Küste nicht mehr schützen können. Die Innenländer sollen eine Steuer zahlen, um Wachtürme zu errichten und Kriegsschiffe zu bauen. Das sehen die Innenländer nicht ein. Während einige Häuser die Greifenreiter unterstützen, sehen andere sie als überholt an.
+
+### Szenario
+Tribut für den Drachen muss erbracht werden, doch die Kassen der Greifenreiter sind leer. Die Greifen sterben, die Greifenreiter können nicht mehr für den Schutz der Küste / der Berge sorgen. Ihre Position ist gefährdet.
+
+Der Vater, unterwegs um mit dem Mountain Folk über das Recht der Passquerung für die wichtigen Handelsrouten in die Hinterländer zu verhandeln, ist verschollen.
+
+Der Tribut muss bis zum Ende des Turniers erbracht werden, ansonsten Menschenopfer an den Drachen, das Haus wird zerschlagen, alle verlieren ihren Rank.
+
+### Setting
+
+#### Ideen
+- Warden of the North
+- Peasant Rebellion
+- Räuber, die in den Wäldern leben und sich selbst "Rebellen" nennen.
+- Monster in abgelegenen Gebieten
+- Untote, falls nicht nach Burrs Riten begraben wird.
+- Händler, die zwar nicht in den Adelsstand erhoben werden, doch ihnen vom Rang durch ihren Reichtum ebenbürtig sind und durch Kredite etc. großen Einfluss auf den Krieg haben.
+- Star Chamber (Berater Rat)
+- Kinder der Adeligen leben meist nicht am selben Ort wie ihre Eltern
+- Greifenreiter Traditionalisten "The Old Way" / Königin "New School" mit viel Bling Bling
+- Magierakademie
+- Die ersten Siedler, die den alten Göttern folgten, waren "Wikinger" und eroberten das Reich von den Ureinwohnern. Die "Wikinger" entwickelten sich weiter von "Kriegern" zu "Farmern".
+- Greifenreiter verteidigen die Küste gegen die "Wikinger"? Oder gegen ein anderes Volk? Zusammen mit der "Grauen Brigade" gegen Orks? Die Greifenreiter zu Luft, die graue Brigade zu Land?
+- Middarmark
+- Flusslande
+- Die alten Göttern. Spirits of the Land. Durch Druiden repräsentiert. Greifenreiter haben einen undercover Druiden.
+- Das fahrende Volk Cymbri. Vorfahren lebten als Sklaven unter den Fae, lehnten sich auf und vertrieben die Fae. Fae paarten sich mit Cymbri, Cymbri erbten Magie.
+- Mündel. Kinder / Mitglieder wachsen in einem anderen Adelshaus, je nach Stand, als Familienmitglieder auf. Dadurch werden die Beziehungen zwischen den Häusern gefestigt. Im Normalfall kehren die Mündel nach einigen Jahren zu ihren Familien zurück. Kommt es zu Auseinandersetzungen zwischen den Häusern, können Mündel als Druckmittel und Geiseln verwendet werden.
+
+#### Länder Oerths
+##### Angland
+##### Iberia
+##### Eira
+##### Zyx
+
+#### Orte
+##### Rimmersgard
+Sitz des Königs.
+Dort wird der Tribut entrichtet und das Tributturnier findet statt.  
+- Tempel der stillen Schwestern
+- Festung des Königs
+- Turnierplatz
+- Turm im See
+- Alte Festungsanlage aus den Gründerzeiten, verbunden mit dem Tempel der stillen Schwestern?
+- Alte Festungsanlage, die durch den letzten Drachenangriff zerstört und nie wieder aufgebaut wurde.
+
+##### Die Stadt im Sumpf
+Inspiration: Game of Thrones  
+Thema: Verwesung, Tot, Muff, Zombies?  
+
+Heimat der Sumpfbewohner.
+Schwer zu finden, da die Stadt nicht befestigt ist
+und sich innerhalb des Sumpfs bewegt.  
+Ein Hauch von Verwesung umgibt die Bewohner, weil der Gestank des Sumpfes in den Kleidern hängt.  
+
+##### Treibgut
+Inspiration: Drachenlanze
+
+Eine Stadt aus angeschwemmten Überresten von Schiffen.
+
+##### Landsend
+Heimat der Greifenreiter an einer Steilküste. Stürme toben an den Klippen.
+An der Klippe sind die Nester der Greifen befestigt, verbunden durch Stege und
+erreichbar durch Leitern.
+
+##### Schachtstadt
+Inspiration: Malmsturm
+
+Innerhalb eines Tales ragt ein schlanker Fels in die Höhe.
+Auf dessen Spitze wurde eine Stadt aus Holz errichtet.
+
+##### Mountain Village
+Inspiration: Assassins Apprentice
+
+Haben die Gewalt über die Pässe durch die unwirtlichen Gebirge.
+Wichtig für die Länder in den Ebenen, um Handel treiben zu können.
+Hartes Volk. Kinder, von denen abzusehen ist, dass sie nicht
+überlebensfähig sind, werden ausgesetzt. Von Alten wird erwartet,
+dass sobald sie sich nicht mehr selbst versorgen können, sich in die
+Berge zurückzuziehen.
+Die Mountain Village Menschen bewegen sich in den Bergen zu Fuss fort.
+Als Lasttiere dienen ihnen starke Ziegenböcke.
+In der Hauptstadt gibt es nur wenige befestigte Gebäude. Diese sind
+zumeist öffentlich. Besucher kommen mit ihren Zelten, errichten diese
+auf ausgezeichneten Gebieten. Ihre Tiere lassen sie auf Weiden ausserhalb
+der Stadt. Ist der Besuch zu Ende, ist es Tradition, in einem
+der Gärten zu pflanzen, seine Zelte abzubauen und weiterzuziehen.
+Die öffentlichen Gebäude bestehen zumeist aus Bäumen, deren
+Äste durch Seile und andere Befestigungen zu einem Dach
+verwoben wurden.
+
+##### Nomadenvolk
+Inspiration: Mongolen?
+
+Zu den Füssen des Mountain Volks leben Nomadenstämme.
+
+##### Nachbarn der Greifenreiter im Norden
+Inspiration: Australien / Schottland
+
+Leben in den kargen Gebieten im Norden. Stammen von den deportierten Verbrechern ab. Werden von den Reichen ausgegrenzt. Streben nach Unabhängigkeit. Beserker / Wilde.
+
+#### Häuser
+
+##### Haus A
+Inspiration: Krieg der Rosen  
+Inspiration: Dark Albion  
+Inspiration: Lancaster  
+
+##### Haus B
+Inspiration: Krieg der Rosen  
+Inspiration: Dark Albion  
+Inspiration: York  
+
+##### Haus C
+
+##### Haus D
+
+##### Haus E
+
+##### Haus F
+
+##### Haus G
+Inspiration: Game of Thrones  
+Inspiration: Stark
+
+Greifenreiter. Wardens of the West. The Old Ways. Spirits of the Land.
+- Undercover Druide.
+- Mündel eines anderen Hauses.
+
+#### NSC
+
+##### Der König
+Inspiration: Dark Albion
+
+The Mad King. In jungen Jahren an die Macht gekommen, umringt von aristrokatischen Beratern, die nur auf ihr eigens Wohl auswaren. Nun in dreiziger - und offensichtlich verrückt. Katatonisch, Nervenzusammenbrüche, spirituell.
+
+##### Die Königin
+Inspiration: Dark Albion
+
+In den zwanzigern. Intrigrant. Hat Berater um sich geschart, die sie geschickt manipuliert, in ihrem Interesse zu handeln. Star Chamber.
+
+##### Der Leprakranke im Turm
+Inspiration: Rob Roy
+
+Lebt in Rimmersgard. War einst eine wichtige Person. Verfault nun.
+Verlässt seinen Turm nicht mehr. Kommuniziert per Tauben.
+
+#### Vereinigungen
+
+##### Die graue Brigade
+Inspiration: Grey Brigade
+
+Halb-Orks, die auf ihren riesigen Kampfschweinen die Grenzen
+zu den Reichen der Orks bewachen. Sind natürlich nicht gut angesehen. Und stinken.
+
+##### Die stillen Schwestern
+Inspiration: Black Company
+
+Frauen bringen Kinder ins Leben, Frauen bringen Tote in Grab.
+Die stillen Schwestern dienen dem Gott Kor.
+Bringen den Tribut inklusive eventuell vorhandenen Menschenopfer
+zu Vermitrax.
+Es ist Tradition, dass ein Teil des Besitz des Toten als Totengabe
+in den Besitz der stillen Schwestern übergeht, um Kor gütig zu stellen und einen reibungslosen Übergang in das Totenreich zu erkaufen.
+Die Gaben werden treuhänderisch von den stillen Schwestern verwaltet
+und befinden sich mit den Gebeinen der Toten unterhalb des
+Burr Tempels in Rimmersgard.
+Wird nicht nach Burrs Riten begraben, stehen die Toten als Zombies / Ghoule etc wieder auf.
+
+##### Die Ritter der Rose
+Inspiration: Drachenlanze (Ränke, Symbole)
+
+Ritterorden. Viel Bling Bling. Vom Volk geliebt verachten sie die Greifenreiter und die graue Brigade als unzivilisierte Wilde.
+
+##### Star Chamber
+Inspiration: Dark Albion
+
+Berater der Königin. Durch sie regiert die Königin in ihrem Interesse. Vornehmlich Team A. Es geht das Gerücht um, dass viele Mitglieder der Star Chamber Liebhaber der Königin sind.
+
+##### Parliament
+Inspiration: Dark Albion
+
+Ab und an kommt die Königin in die Verlegenheit, das Parliament einzuberufen. So zum Beispiel, wenn der Tribut nicht erbracht werden kann. Dort sind alle Adeligen versammelt und Team B hat die Möglichkeit, Einfluss zu nehmen. Das Parliament kann vornehmlich Titel und Ämter vergeben. Das ist eine gute Möglichkeit für Team B Player in wichtige Positionen zu bringen.
+
+#### Bedrohungen
+
+##### Vermithrax
+Inspiration: Der Drachentöter
+
+Der Drache. Um seiner Tyrannei zu entgehen, wird jährlich ein
+Tribut erbracht. Lebt auf einer Insel nicht unweit der Länder.
+400 Jahre alt.
+
+##### Orks
+Die Orks an den Grenzen. Nomaden?
+
+#### Religion
+
+##### Burr
+
+##### Spirits of the Land
+Inspiration: Dark Albion
+
+Die alten Götter. Spirits of the Land. Als heidnisch abgetan. Wenn in Angland verehrt, dann nur heimlich. In den Randbezirken Semi-Öffentlich. Repräsentiert durch Druiden.  
+
+#### Namen
+
+##### Orte etc
+* Urland
+* Oerth
+* Angland
+* Cymbri
+* Iberia
+* Eire
+* Zyx
+
+##### Personen
+* Casiodorus
+* Valerian
+* Ulrich of Craggenmoor
+* Tyrian
+* Galen Bradwarden
+* Hodge
+* Elspeth
+* Jacopus

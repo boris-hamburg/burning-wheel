@@ -70,8 +70,9 @@ Eine Stadt aus angeschwemmten Überresten von Schiffen.
 
 ##### Landsend
 Heimat der Greifenreiter an einer Steilküste. Stürme toben an den Klippen.
-An der Klippe sind die Nester der Greifen befestigt, verbunden durch Stege und
-erreichbar durch Leitern.
+An der Klippe sind die Nester der Greifen befestigt, verbunden durch Stege und erreichbar durch Leitern.
+
+Hain bzw. Mini-Stonehedge, im Wald verborgen, heiliger Platz um die Spirits of the Land zu ehren.
 
 ##### Schachtstadt
 Inspiration: Malmsturm
@@ -114,12 +115,16 @@ Leben in den kargen Gebieten im Norden. Stammen von den deportierten Verbrechern
 ##### Haus A
 Inspiration: Krieg der Rosen  
 Inspiration: Dark Albion  
-Inspiration: Lancaster  
+Inspiration: Lancaster
+
+Vertreten in der Star Chamber.  
 
 ##### Haus B
 Inspiration: Krieg der Rosen  
 Inspiration: Dark Albion  
-Inspiration: York  
+Inspiration: York
+
+Vertreten im Parliament. Kann weitere Macht erlangen und Druck auf die Königin / Erbfolge ausüben, in dem das Haus G den Tribut nicht erbringen kann und im Parliament der Titel "Warden of the West" an ein Haus vergeben wird, welches Haus B nahesteht oder durch den Titel auf die Seite von Haus B gezogen wird.
 
 ##### Haus C
 
@@ -214,7 +219,6 @@ Inspiration: Dark Albion
 Die alten Götter. Spirits of the Land. Als heidnisch abgetan. Wenn in Angland verehrt, dann nur heimlich. In den Randbezirken Semi-Öffentlich. Repräsentiert durch Druiden.  
 
 #### Namen
-
 ##### Orte etc
 * Urland
 * Oerth
@@ -233,3 +237,13 @@ Die alten Götter. Spirits of the Land. Als heidnisch abgetan. Wenn in Angland v
 * Hodge
 * Elspeth
 * Jacopus
+
+#### Plots
+##### Tribut
+Die Helden müssen bis zum Ende des Turniers den Tribut für den Drachen erbringen.
+
+##### Sterbende Greifen
+Die Helden müssen hinter das Geheimnis der sterbenden Greifen kommen und das Aussterben der Greifen verhindern.
+
+##### Vater - verschollen!
+Die Helden müssen herausfinden, welches Schicksal ihren Vater ereilte, der sich zum Mountain Folk begab, um dort über die Öffnung der Gebirgspässe zu verhandeln, die die überlebendsnotwendigen Handelsrouten in die Hinterländer ermöglichen.

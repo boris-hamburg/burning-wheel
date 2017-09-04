@@ -53,6 +53,7 @@ Dort wird der Tribut entrichtet und das Tributturnier findet statt.
 - Turm im See
 - Alte Festungsanlage aus den Gründerzeiten, verbunden mit dem Tempel der stillen Schwestern?
 - Alte Festungsanlage, die durch den letzten Drachenangriff zerstört und nie wieder aufgebaut wurde.
+- Alter Turm, der durch den letzten Drachenangriff zerstört und nie wieder aufgebaut wurde. Ein Mahnmal. Steine sind durch die Hitze geschmolzen. Zu seinen Füssen ist die Tribüne des Königs errichtet worden.
 
 ##### Die Stadt im Sumpf
 Inspiration: Game of Thrones  
@@ -132,15 +133,17 @@ Vertreten im Parliament. Kann weitere Macht erlangen und Druck auf die Königin 
 
 ##### Haus E
 
-##### Haus F
+##### Haus Foxington
 
-##### Haus G
+##### Haus Greyfeather
 Inspiration: Game of Thrones  
 Inspiration: Stark
 
 Greifenreiter. Wardens of the West. The Old Ways. Spirits of the Land.
 - Undercover Druide.
 - Mündel eines anderen Hauses.
+
+##### Haus Oxham
 
 #### NSC
 

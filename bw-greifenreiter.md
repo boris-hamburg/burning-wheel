@@ -63,6 +63,7 @@ Heimat der Sumpfbewohner.
 Schwer zu finden, da die Stadt nicht befestigt ist
 und sich innerhalb des Sumpfs bewegt.  
 Ein Hauch von Verwesung umgibt die Bewohner, weil der Gestank des Sumpfes in den Kleidern hängt.  
+Der Deadwood Tree in der Mitte der Stadt im Sumpf. Der Baum, der weder Tod noch Lebendig ist und aus dem der Deadwood Staff hergestellt ist.
 
 ##### Treibgut
 Inspiration: Drachenlanze

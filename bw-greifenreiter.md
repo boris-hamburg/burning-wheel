@@ -85,7 +85,7 @@ Auf dessen Spitze wurde eine Stadt aus Holz errichtet.
 Inspiration: Assassins Apprentice
 
 Haben die Gewalt über die Pässe durch die unwirtlichen Gebirge.
-Wichtig für die Länder in den Ebenen, um Handel treiben zu können.
+Wichtig für die Länder in den Ebenen, um Handel mit den Flusslanden treiben zu können.
 Hartes Volk. Kinder, von denen abzusehen ist, dass sie nicht
 überlebensfähig sind, werden ausgesetzt. Von Alten wird erwartet,
 dass sobald sie sich nicht mehr selbst versorgen können, sich in die
@@ -230,6 +230,8 @@ Die alten Götter. Spirits of the Land. Als heidnisch abgetan. Wenn in Angland v
 * Iberia
 * Eire
 * Zyx
+* Middarmark
+* Flusslande jenseits der Heimat des Mountain Folks
 
 ##### Personen
 * Casiodorus

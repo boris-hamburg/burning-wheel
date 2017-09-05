@@ -112,6 +112,12 @@ Inspiration: Australien / Schottland
 
 Leben in den kargen Gebieten im Norden. Stammen von den deportierten Verbrechern ab. Werden von den Reichen ausgegrenzt. Streben nach Unabhängigkeit. Beserker / Wilde.
 
+##### Cymbri
+Inspiration: Name des Windes
+Inspiration: Dark Albion
+
+Ehemals Ureinwohner. Wurden vertrieben. Nun fahrendes Volk. Heimatlos. Ziehen von Stadt zu Stadt. Verwässertes Fae-Blut.
+
 #### Häuser
 
 ##### Haus A

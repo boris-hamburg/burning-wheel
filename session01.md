@@ -1,4 +1,5 @@
 ### Das Lied bisher
+Düstere Zeiten für Haus Greyfeather: Ihre Greifen sterben, das Familienoberhaupt ist verschollen und der Tribut für den Drachen Vermitrax steht an.
 
 ### Die Helden
 ##### Jamina
@@ -6,11 +7,11 @@ Giftmischerin / Assassinin
 
 ##### Godric
 _The_ Wizard of the West   
-Lebte als Mündel bei den Stalwarts und lernte doch Magie.
+Lebte als Mündel bei den Stalwarts und lernte dort Magie.
 
 ##### Falcot
 Klein, aber oho.   
-Macht sich auf, mit seinem Pony Willow die Familie zu retten.
+Macht sich mit seinem Pony Willow auf die Familie zu retten.
 
 ### Die Strophe
 Star Chamber Siegelring mit neuem Siegel. Die Foxingtons sind involviert.
@@ -20,7 +21,7 @@ Star Chamber Siegelring mit neuem Siegel. Die Foxingtons sind involviert.
 Turnierplatz am alten Turm / Mahnmal
 
 ### Personen
-##### Margo Greywing of Angland
+##### Margo Greyfeather of Angland
 Die Mutter von Godric und Falcot. Ganz eindeutig ist Falcot ihr Lieblingskind.
 
 ##### Talon
@@ -40,6 +41,8 @@ Heckenritter mit großen Hoffnungen zum Turnier angereist. Macht nach einem Glä
 
 ##### Phil Pholic of Angland
 Falcots Rivale.
+
+### Plots
 
 ### Lacher des Abends
 Die kleine Kiste für die zwei Silbermünzen. Dieser gierige Drache.

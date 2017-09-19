@@ -151,6 +151,10 @@ Greifenreiter. Wardens of the West. The Old Ways. Spirits of the Land.
 - Mündel eines anderen Hauses.
 
 ##### Haus Oxham
+Ziemlich reich, diese Oxhams.   
+Beliefern die Greyfeathers mit Fleisch für ihre Greifen.
+
+##### Haus Stalwart
 
 #### NSC
 
@@ -188,8 +192,7 @@ zu Vermitrax.
 Es ist Tradition, dass ein Teil des Besitz des Toten als Totengabe
 in den Besitz der stillen Schwestern übergeht, um Kor gütig zu stellen und einen reibungslosen Übergang in das Totenreich zu erkaufen.
 Die Gaben werden treuhänderisch von den stillen Schwestern verwaltet
-und befinden sich mit den Gebeinen der Toten unterhalb des
-Burr Tempels in Rimmersgard.
+und befinden sich mit den Gebeinen der Toten unterhalb des Burr Tempels in Rimmersgard.
 Wird nicht nach Burrs Riten begraben, stehen die Toten als Zombies / Ghoule etc wieder auf.
 
 ##### Die Ritter der Rose

@@ -100,7 +100,8 @@ der Stadt. Ist der Besuch zu Ende, ist es Tradition, in einem
 der Gärten zu pflanzen, seine Zelte abzubauen und weiterzuziehen.
 Die öffentlichen Gebäude bestehen zumeist aus Bäumen, deren
 Äste durch Seile und andere Befestigungen zu einem Dach
-verwoben wurden.
+verwoben wurden.  
+Innerhalb des Mountains Folks gibt es die Tuani Krieger.
 
 ##### Nomadenvolk
 Inspiration: Mongolen?
@@ -242,6 +243,7 @@ Die alten Götter. Spirits of the Land. Als heidnisch abgetan. Wenn in Angland v
 * Zyx
 * Middarmark
 * Flusslande jenseits der Heimat des Mountain Folks
+* Tuani
 
 ##### Personen
 * Casiodorus

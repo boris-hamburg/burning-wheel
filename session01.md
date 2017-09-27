@@ -1,5 +1,5 @@
 ## Das Lied bisher
-Haus Greyfeather stehen düstere Zeiten bevor.
+Haus Greyfeather stehen dunkle Zeiten bevor.
 
 Die Greifen, mit denen die Wardens of the West seit Generationen die Küste Anglands schützen, sterben an einer mysteriösen Seuche.
 
@@ -12,7 +12,7 @@ Der Drachentribut muss geleistet werden, doch die Kassen sind leer ...
 ## Die Helden
 ### Jamina
 50% Greyfeather, 50% Tuani, 100% Bastard.   
-Galens Tochter wurde in den geheimen Künsten der Assassinen ausgebildet.
+Auf Geheiß ihres Vaters, Galen, im Assassinen Handwerk ausgebildet, verfeinerte Jamina ihre Fähigkeiten während sie beim fahrenden Volk, den Cymbri, lebte.
 
 ### Godric
 _The_ Wizard of the West   
@@ -24,11 +24,17 @@ Zu klein, um ein Greifenreiter zu werden, macht sich Falcot nach drei Jahren im 
 ## Die Strophe
 Das Tributturnier zu Rimmersgard steht an.
 
-Jamina, Godric und Falcot treffen ihre Mutter, Margo, die ihnen offenbart, dass die Greyfeathers der Verpflichtung, ihren Teil des Tributs an den Drachen Vermitrax zu entrichten, nicht nachkommen können. Wird die leere Truhe in ihrer Mitte nicht bis zum Ende des Turniers gefüllt, drohen drakonische Strafen: Haus Greyfeather wird zerschlagen, enteignet und Vermitrax Familienblut geopfert.
+Jamina, Godric und Falcot treffen ihre Mutter, Margo, die ihnen offenbart, dass die Greyfeathers der Verpflichtung ihren Teil des Tributs an den Drachen Vermitrax zu entrichten, nicht nachkommen können. Wird die leere Truhe in ihrer Mitte nicht bis zum Ende des Turniers gefüllt, drohen drakonische Strafen: Haus Greyfeather wird zerschlagen, enteignet, vernichtet ... und Vermitrax Familienblut geopfert.
 
-In ihrer Verzweiflung entsinnen die drei Geschwister den wagemutigen Plan, das Turnier zu gewinnen, in der Hoffnung, dass das ausgelobte Preisgeld ausreicht, den Tribut zu erbringen.
+Führungslos, da ihr Vater verschollen ist, ersinnen die drei Geschwister den wagemutigen Plan, das Turnier zu gewinnen, in der Hoffnung, dass das ausgelobte Preisgeld ausreicht, den Tribut zu erbringen.
 
-Star Chamber Siegelring mit neuem Siegel. Die Foxingtons sind involviert.
+Der designierte Champion der Greyfathers, Gilliam, schloss sich den Oxhams an, so dass Falcot genötigt wurde, anzutreten. Eine Rüstung wird gesucht, doch lediglich eine Zermonienrüstung gefunden. Des Weiteren gestaltet sich die Turniermeldung als schwierig. Jonathan Stalwort of Gont teilt mit, dass die Meldeliste bereits voll sei und Falcot höchstens als Nachrücker gemeldet werden könne.
+
+In der Zwischenzeit erfährt Jamina vom Taschendieb Will, dass ein neuer Star Chamber Siegelring geschmiedet wurde, welcher das Siegel der Foxingtons trägt.
+
+Als Jamina zu Godric und Falcot zurückkehrt, entbrennt eine Diskussion, welcher Turnierteilnehmer ausgeschaltet wird, um Platz für Falcot zu machen. Dieser will mit diesem Vorgehen offensichtlich nichts zu tun haben und verlässt seine Geschwister mit Ziel Schmied.
+
+Die Wahl Godrics fällt auf den Heckenritter Erold Buckington. Als Godric ihn zu sich rufen lässt, ist seine Hoffnung groß, dass er für die Greyfeathers am Turnier teilnehmen soll. Da dem nicht so ist, bietet Godric an, die Laune Erolds mit einem Becher Wein zu heben, den ihm die als Schankmaid verkleidete Jamina reicht und mit einem Abführmittel versüsst.
 
 ## Orte
 ### Rimmersgard

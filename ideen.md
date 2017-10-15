@@ -19,3 +19,5 @@ Yamina wird von Chade hören, dass es einen Spion gibt, aber nicht klar ist, wer
 Falcots Sieg in der ersten Runde lässt andere Familien aufhorchen. Sie werden Massnahmen ergreifen, um zu verhindern, dass er Chancen auf den Turniersieg hat. Zum Beispiel sein Essen (oder aller?) vergiften lassen. Irgendeinen Plan, der gegen Yaminas Instinkt "Protect the Innocence" geht.
 
 Den alten Wegen folgend wird der Konflikt um die Vorherrschaft in der Familie durch Champions aus dem Gefolge ausgetragen. Margo nominiert Falcot, Godric wird entweder sich selbst nominieren oder aber den Alkoholiker Erold Buckington nominieren.
+
+Norna ging in den Sumpf und starb. Alen Foxington brachte sie zu Rashimi, dem Wizard of the South, der heimlich ein Nekromant ist (wie unschwer an dem Deadwood Staff zu erkennen ist) der sie wieder zurück ins Leben holte. Leider sind dabei ihre Gefühle auf dem Grund des Sumpfes geblieben, so dass sie nicht mehr als ein Apathisches Trophy Wife ist. Aber vielleicht kann Rashimi sie für den richtigen Preis wiederum zurück ins Leben holen?

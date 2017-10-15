@@ -14,6 +14,8 @@ Gillian wird der Gegner im Finale.
 
 In der dritten Runde muss Falcot gegen königliches Blut kämpfen, was bedeutet, dass er kampflos aufgeben muss, da köngliches Blut nicht vergossen werden darf.
 
-Jamina wird von Chade hören, dass es einen Spion gibt, aber nicht klar ist, wer es ist. Sie wird ihn suchen.
+Yamina wird von Chade hören, dass es einen Spion gibt, aber nicht klar ist, wer es ist. Sie wird ihn suchen.
 
-Falcots Sieg in der ersten Runde lässt andere Familien aufhorchen. Sie werden Massnahmen ergreifen, um zu verhindern, dass er Chancen auf den Turniersieg hat. Zum Beispiel sein Essen (oder aller?) vergiften lassen. Irgendeinen Plan, der gegen Jaminas Instinkt "Protect the Innocence" geht.
+Falcots Sieg in der ersten Runde lässt andere Familien aufhorchen. Sie werden Massnahmen ergreifen, um zu verhindern, dass er Chancen auf den Turniersieg hat. Zum Beispiel sein Essen (oder aller?) vergiften lassen. Irgendeinen Plan, der gegen Yaminas Instinkt "Protect the Innocence" geht.
+
+Den alten Wegen folgend wird der Konflikt um die Vorherrschaft in der Familie durch Champions aus dem Gefolge ausgetragen. Margo nominiert Falcot, Godric wird entweder sich selbst nominieren oder aber den Alkoholiker Erold Buckington nominieren.

@@ -4,7 +4,6 @@
 ### Yamina
 50% Greywing, 50% Tuani, 100% Bastard
 Auf Geheiß ihres Vaters, Galen, im Assassinen Handwerk ausgebildet, verfeinerte Yamina ihre Fähigkeiten während eines Auslandssemsters beim fahrenden Volk, den Cymbri. Verkleidungskünstlerin.
-
 ### Godric
 _The_ War Wizard of the West
 Wurde von seinem Vater als Pfaustpfand für sichere Grenzen den Stalwarts übergeben, lernte dort, dass Magie die Antwort auf alle Fragen ist und wurde anschließend zum War Wizard of the West. Hat in Rimmersgard eine Turm-WG mit seinem Greifen Midnight.
@@ -13,6 +12,25 @@ Zu klein, um ein Greifenreiter zu werden, doch mit einem großen Herzen in der B
 ### Grimwald
 Das Ding aus dem Sumpf. Die Geister, die ich rief.
 ## Die Strophe
+Grimwald kommt an und erhält von Margo den Auftrag, Falcot davon abzubringen, am Turnier teilzunehmen.
+Grimwald bestärkt Falcot in seiner Entscheidung, am Turnier teilzunehmen und überreicht ihm einen Talisman. Dabei zieht er
+den Zorn eines Luftgeistes auf sich.
+Grimwald entdeckt auf der Tribüne seine totgeglaubte Geliebte Norna nebst dem adeligen Alen Foxington, der Norna Grimwald
+einst entriss.
+Grimwald beschliesst daraufhin Foxington zu belauschen. In Foxingtons Zelt wird der Taschendieb  Wicked Will gefoltert und
+ihm entlockt, dass Yamina von dem Star Chamber Siegelring weiss.
+Als Malakei Wicked Will am Fluss umbringen will, schreitet Grimwald mit Hilfe eines Baumgeistes und seinen Wolfes ein und rettet
+Will. Er bring ihn zu Yamina.
+Einlauf von Margo bekommen, weil Anweisungen nicht befolgt und beim auf dicke Hose machen die Rache des Windgeistes spüren. Der Brand wird rasch gelöscht.
+Falcot festsetzen. Falcot mit Hilfe des eingetauschten Stabs befreien.
+Preparieren des Sattels.
+Wicked Will zruück in die Stadt bringen
+Chade treffen und Theorie des vergifteten Fleisches (Elfbark) unterbreiten. Ochesen bei den Oxhams untersuchen. Zu lange trödeln und den Arsch versohlt bekommen.
+Mit Mutter anlegen und gesagt bekommen, dass der Familie nie genug Aufmerksamkeit geschenkt wurde, dreckiger Opportunist.
+Auf dicke Hose machen und Mutter einschüchtern. Wer ist der Leader of the Pack? Mutter oder Erstgeborener.
+Neben der Ausrüstung für einen Ritt im Turnier einen Gefolgsmann gewinnen.
+Rashimi treffen und wundern, was der Kerl so alles weiss. Aber auf gar keinen Umständen Midnight abgeben.
+Vor dem Turnier eine Greifenillusion auf Phil Pholics Streitross wirken. Von Gilliam angekündigt werden. Phils Pferd scheut. Es geht im Schwertkampf weiter, Falcot ist obenauf, Phil im Staub, die Menge tobt, der Vorhang fällt. Ende zweiter Akt.
 ## Orte
 ### Rimmersgard
 Turnierplatz am alten Turm / Mahnmal. An einem Fluss gelegen. Auf den Ruinen des letzten Angriffs Vermitrax errichtet.

@@ -12,7 +12,7 @@ Gillian wird Kontakt zu Falcot suchen, dessen Kindheitsheld er war und immer wie
 
 Gillian wird der Gegner im Finale.
 
-In der dritten Runde muss Falcot gegen königliches Blut kämpfen, was bedeutet, dass er kampflos aufgeben muss, da köngliches Blut nicht vergossen werden darf.
+In der dritten Runde muss Falcot gegen königliches Blut kämpfen, was bedeutet, dass er kampflos aufgeben muss, da köngliches Blut nicht vergossen werden darf. Eventuell handelt es sich dabei um entweder einen bekannten aus der Armee oder um einen der korrupten Hauptmänner. Je nachdem, was gechallenged werden soll. Ehre / Familie <-> Sinn auf Rache.
 
 Yamina wird von Chade hören, dass es einen Spion gibt, aber nicht klar ist, wer es ist. Sie wird ihn suchen.
 

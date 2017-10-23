@@ -175,6 +175,12 @@ Inspiration: Rob Roy
 Lebt in Rimmersgard. War einst eine wichtige Person. Verfault nun.
 Verlässt seinen Turm nicht mehr. Kommuniziert per Tauben.
 
+##### Ulrik of Craggenmoor
+Godrics Vorgänger als Wizard of the West.
+Nahm Godric bei sich auf und lehrte ihn Magie. Unterschätzte sowohl Godrics Talent als auch seinen Ehrgeiz. Wurde von Godric ausgebootet. Liess sich daraufhin, um seine Stellung zurück zu gewinnen, mit dunklen Mächten ein und ist nun ein von Korruption zerfressenes Monstrum, einzig getrieben von dem Wunsch nach Rache.
+Craggenmoor gab Godric zum erstenmal Bestätigung. Er war der einzige, der Potential in ihm sah und nahm ihn als Schüler auf. Zum erstenmal war Godric keine Enttäuschung wie für seinen Vater oder Ballast / Mittel zum Zweck oder ein notwendiges Übel wie für die Stalwarts.
+Craggenmoor half Godric Selbstbewusstsein, Glauben in die eigene Stärke zu entwickeln. Die Selbstzweifel, nie gut genug zu sein, sind noch da, aber rückten in den Hintergrund. Doch vielleicht gab Craggenmoor Godric zu viel Selbstbewusstsein, gepaart mit Ehrgeiz es allen zeigen zu wollen, erschuf Craggenmoor ein opportunistisches Monster - das ihn ausgebootete ... und selbst zum Monster werden liess.
+
 #### Vereinigungen
 
 ##### Die graue Brigade

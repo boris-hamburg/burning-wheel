@@ -67,3 +67,15 @@ Yaminas Lehrmeister teilt ihre Vorliebe für Verkleidungen.
 Alen Foxingtons Enforcer / Beastmaster
 
 ## Plots
+
+### Erbringt den Tribut
+Vermitrax' Tribut muss bis zum Ende des Turniers erbracht werden.
+Ansonsten wird das Haus zerschlagen, der Besitz unter den anderen Häusern verteilt, der Sitz in der Star Chamber verschachert und ein Familienmitglied Vermitrax geopfert.
+
+### Findet den Maulwurf
+Innerhalb des Hauses scheint es einen Spion zu geben, der brisante Familieninformationen nach außen gibt.
+
+### Findet Galen
+Was geschah mit Galen während seiner Expedition in das Reich des Mountain Folks
+
+### Heilt die Greifen

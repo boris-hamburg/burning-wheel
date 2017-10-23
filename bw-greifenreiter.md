@@ -181,6 +181,9 @@ Nahm Godric bei sich auf und lehrte ihn Magie. Unterschätzte sowohl Godrics Tal
 Craggenmoor gab Godric zum erstenmal Bestätigung. Er war der einzige, der Potential in ihm sah und nahm ihn als Schüler auf. Zum erstenmal war Godric keine Enttäuschung wie für seinen Vater oder Ballast / Mittel zum Zweck oder ein notwendiges Übel wie für die Stalwarts.
 Craggenmoor half Godric Selbstbewusstsein, Glauben in die eigene Stärke zu entwickeln. Die Selbstzweifel, nie gut genug zu sein, sind noch da, aber rückten in den Hintergrund. Doch vielleicht gab Craggenmoor Godric zu viel Selbstbewusstsein, gepaart mit Ehrgeiz es allen zeigen zu wollen, erschuf Craggenmoor ein opportunistisches Monster - das ihn ausgebootete ... und selbst zum Monster werden liess.
 
+##### Chade
+Galens älterer Halb-Bruder, Yaminas Onkel. Galens Assassin. Halb Greywing, halb Cymbri. Konnte niemals Thronfolger werden. Hat Kontakte zu den Cymbri, konnte daher Yamina zu ihnen ins Auslandssemster schicken.
+
 #### Vereinigungen
 
 ##### Die graue Brigade

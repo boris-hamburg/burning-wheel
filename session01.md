@@ -36,6 +36,8 @@ Als Yamina zu Godric und Falcot zurückkehrt, entbrennt eine Diskussion, welcher
 
 Die Wahl Godrics fällt auf den Heckenritter Erold Buckington. Als Godric ihn zu sich rufen lässt, ist seine Hoffnung groß, dass er für die Greywings am Turnier teilnehmen soll. Da dem nicht so ist, bietet Godric an, die Laune Erolds mit einem Becher Wein zu heben, den ihm die als Schankmaid verkleidete Yamina reicht und mit einem Abführmittel versüsst.
 
+Greif ersetzt Hirsch, als Falcots Schild seinen Platz unter den Turnierteilnehmern erhält.
+
 ## Orte
 ### Rimmersgard
 Turnierplatz am alten Turm / Mahnmal

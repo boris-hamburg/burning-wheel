@@ -42,6 +42,8 @@ Yaminas Lehrmeister. Der alte pockennarbige Assassine teilt Yaminas Vorliebe fü
 ### Talon
 Greifenexperte der Greywings. Dient Galen und Margo loyal.
 
+### Ulrik of Craggenmoor
+
 ## Gruppen
 ### Die Ritter der Rose
 

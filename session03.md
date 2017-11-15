@@ -19,6 +19,22 @@ und lebt nun mit seinem Greifen Midnight in einer Turm-WG in Rimmersgard.
 Nicht mit den physischen Voraussetzungen ausgestattet ein Greifenreiter zu werden, doch mit einem großen Herzen in der Brust, macht sich Falcot nach drei Jahren Militärdienst auf, seiner Mutter Margo die Stirn zu bieten und das Tributturnier zu gewinnen.
 
 ## Die Strophe
+Gilliam gratuliert Falcot zu seinem Sieg in der ersten Turnierrunde und erkundigt sich, wie es der Familie und den Greifen geht. Falcot erklärt, dass sein Vater noch nicht vom Mountain Folk zurückgekehrt ist und sich die Greifen einer wenig bekannten Reinigung ihrer Blutlinie unterziehen, in deren Zuge die kranken und schwachen sterben.
+Errold Buckington erklärt Godric, dass es nun an der Zeit ist, zu seinem Versprechen zu stehen und ihm auf dem Fest zu Ehren des Sieges Falcots zu seinem Champion zu ernennen.
+Godric lässt Rodney Errold als seinen Champion proklamieren.
+Gespräch über das weitere Vorgehen in Godrics Turm, Sumpfratte vor der Tür. Ulrik of Craggenmoor.
+Yamina erhält den Auftrag, Godric zu töten und einen Hinweis darauf, dass andere Häuser bereits begonnen haben, Falcot aus dem Turnier zu nehmen. Vergiftetes Essen während des Festes.
+Godric sucht nach Spuren von Ulrik, findet einen Hinweis darauf, dass ein Spion anwesend war. Feuerspion.
+Yamina sucht Godric auf, um ihn zu berichten, dass sie ihn töten soll.
+Godric sucht seine Mutter auf, um sie zu konfrontieren. Die Wachen lassen ihn nicht ein.
+Ein epischer Kampf beginnt.
+Godric wird überwältigt und liegt im Sumpf.
+Falcot mischt sich ein und landet mit seinem Greifen inmitten der Kontrahenten. Er ruft seine Mutter, sie erscheint und geht Godric an.
+Sie kündigt ein Duell um die Vorherrschaft in der Familie an. Falcot als ihr Champion gegen Errold, Godrics Champion.
+Dieser antwortet mit einem gigantischen Luftstoss.
+Margo flieht zusammen mit Falcot. Sie fliegen zu Godrics Turm. Dort kommt es zu einem Duel of Wits. Falcot verliert und wird im Duell antreten.
+Falcot spielt mit dem Gedanken, sich vom Turm zu schmeissen, besinnt sich und reitet zurück ins Lager, um dort sein Turnierpferd einzureiten.
+Der Sattel ist manipuliert und Falcot macht einen Abgang.
 
 ## Orte
 ### Rimmersgard
@@ -43,6 +59,9 @@ Yaminas Lehrmeister. Der alte pockennarbige Assassine teilt Yaminas Vorliebe fü
 Greifenexperte der Greywings. Dient Galen und Margo loyal.
 
 ### Ulrik of Craggenmoor
+
+### Rodney
+Der Herold der Familie
 
 ## Gruppen
 ### Die Ritter der Rose

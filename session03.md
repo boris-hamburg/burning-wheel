@@ -36,6 +36,29 @@ Margo flieht zusammen mit Falcot. Sie fliegen zu Godrics Turm. Dort kommt es zu 
 Falcot spielt mit dem Gedanken, sich vom Turm zu schmeissen, besinnt sich und reitet zurück ins Lager, um dort sein Turnierpferd einzureiten.
 Der Sattel ist manipuliert und Falcot macht einen Abgang.
 
+Gilliam gratuliert Falcot zum Sieg in der ersten Turnerrunde und erkundigt sich nach der Familie.
+Falcot erklärt, dass die Greifen ihre Blutlinie reinigen; die schwachen und kranken Tiere sterben / vermehren sich nicht mehr.
+Errold Buckington macht geltend, auf dem Fest zu Ehren Falcots Sieges als Godrics Champion ausgerufen zu werden.
+Rodney ruft Errold als Godrics Champion auf dem Fest aus.
+Gespräch über das weitere Vorgehen in Godrics Turm.
+Vor der Tür eine tote Sumpfratte als Zeichen der Anwesenheit Godrics alten Lehrmeisters Ulrik of Craggenmoor.
+Yamina besucht Chade. Dieser teilt ihr mit, dass andere Familien beginnen, Falcots Teilnahme am Turnier als Bedrohung zu sehen; es werden Anschläge geplant. So war bspw. das Essen auf dem Fest vergiftet.
+Des Weiteren erhält sie den Auftrag ihres Lehnsherren, Godric zu töten.
+Yamina sucht Godric auf, um ihren Auftrag zu offenbaren.
+Währenddessen sucht Falcot das Gespräch mit Margo. Diese erzählt ihm, die Familie in ihre Heimat in den Innenlanden umziehen zu lassen. Sollen andere die Küste schützen. Sie will kein weiteres Blut vergiessen lassen. Es dankt ihnen ja eh niemand.
+Aufgewühlt verlässt Falcot das Zelt seiner Mutter. Um sich abzulenken reitet er sein Turnierpferd ein. Doch der Sattel ist manipuliert, Falcot wird abgeworfen und verletzt sich.
+Godric entdeckt zwar keine Spur von Ulrik, jedoch Hinweise darauf, dass das vertrauliche Gespräch zwischen den Geschwistern auf magischem Wege (durch das Kaminfeuer) belauscht wurde.
+Als er von dem Mordauftrag hört, fliegt Godric ins Lager, um seine Mutter zu konfrontieren.
+Vor ihrem Zelt wird ihm der Einlass verwehrt. Ein epischer Kampf entbrennt.
+Godric findet sich im Schlamm wieder. Falcot trifft ein und beendet den Tumult. Er ruft Margo, die vor dem Zelt erscheint und verkündet, dass der Zwist um die Vorherrschaft in der Familie zwischen Godric und ihr durch ein Duell in der Tradition der alten Wege entschieden werden soll.
+Sein Champion Errold gegen ihren Champion Falcot.
+Des Weiteren nennt sie Godric einen Taugenichts, so dass dieser in Rage mit einem mächtigen Windstoss Margo mitsamt Zelt umstößt.
+Zusammen mit seiner Mutter flieht Falcot in Godrics Turm. Dort versucht er seine Mutter ein letztes Mal umzustimmen.
+Ein episches Duel of Wits beginnt.
+Falcot erkennt Margos Führung an und stimmt zu, im Duell gegen Errold anzutreten.
+Falcot überlegt kurz, sich vom Turm in die Tiefe zu stürzen, besinnt sich dann jedoch eines besseren.
+
+
 ## Orte
 ### Rimmersgard
 Turnierplatz am alten Turm / Mahnmal. An einem Fluss gelegen. Auf den Ruinen des letzten Angriffs Vermitraxs errichtet. Godrics Turm im See. Der Schwarzmarkt unterhalb des Stegs, nur bei Ebbe erreichbar.

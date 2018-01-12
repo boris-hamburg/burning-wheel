@@ -8,7 +8,7 @@ Auf Geheiß ihres Vaters, Galen, im Assassinen Handwerk ausgebildet, verfeinerte
 _The_ War Wizard of the West
 Wurde von seinem Vater als Pfaustpfand für sichere Grenzen den Stalwarts übergeben, lernte dort, dass Magie die Antwort auf alle Fragen ist und wurde anschließend zum War Wizard of the West. Hat in Rimmersgard eine Turm-WG mit seinem Greifen Midnight.
 ### Falcot
-Zu klein, um ein Greifenreiter zu werden, doch mit einem großen Herzen in der Brust, macht sich Falcot nach drei Jahren im Dienst der königlichen Armee auf, das Tributtunier zu gewinnen.
+Zu klein, um ein Greifenreiter zu werden, doch mit einem großen Herzen in der Brust, macht sich Falcot nach drei Jahren im Dienst der königlichen Armee auf, das Tributturnier zu gewinnen.
 ### Grimwald
 Das Ding aus dem Sumpf. Die Geister, die ich rief.
 ## Die Strophe
@@ -25,7 +25,7 @@ Einlauf von Margo bekommen, weil Anweisungen nicht befolgt und beim auf dicke Ho
 Falcot festsetzen. Falcot mit Hilfe des eingetauschten Stabs befreien.
 Preparieren des Sattels.
 Wicked Will zruück in die Stadt bringen
-Chade treffen und Theorie des vergifteten Fleisches (Elfbark) unterbreiten. Ochesen bei den Oxhams untersuchen. Zu lange trödeln und den Arsch versohlt bekommen.
+Chade treffen und Theorie des vergifteten Fleisches (Elfbark) unterbreiten. Ochsen bei den Oxhams untersuchen. Zu lange trödeln und den Arsch versohlt bekommen.
 Mit Mutter anlegen und gesagt bekommen, dass der Familie nie genug Aufmerksamkeit geschenkt wurde, dreckiger Opportunist.
 Auf dicke Hose machen und Mutter einschüchtern. Wer ist der Leader of the Pack? Mutter oder Erstgeborener.
 Neben der Ausrüstung für einen Ritt im Turnier einen Gefolgsmann gewinnen.

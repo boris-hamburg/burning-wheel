@@ -43,3 +43,11 @@ Warum ist Mephisto hinter Grimwald her? Weil Grimwald einen Teil Mephistos in se
 - Hephisto ist nicht nur ein Fragment in der Spirit-Klinge der Greyfeathers, sondern auch in zum Teil in Grimwalds Wolf gefangen.
 
 - Hephisto manifestiert sich als gewaltiger Sturm, der sich über den Ebenen aufbaut und auftürmt. Schwarz und bedrohlich am Horizont hängt, auf eine Brücke wartend, um loszuschlagen.
+
+- Gillian war mehrfacher Turniersieger. Nun tritt Falcot an. Auch wenn er die erste Runde gewonnen hat, bringt dies einigen Hohn und Spott mit sich.
+
+- Phil Pholic spioniert herum und stellt neugierig Fragen. Sein Pferd hatte nie zuvor gescheut, warum nun.
+
+- Während der zweiten Runde wird Godric von einer wichtigen Persönlichkeit, vielleicht einem der anderen Magier, eingeladen, das Duell zwischen Falcot und xyz auf der Tribüne zu verbringen. Oder vielleicht laden ihn die Foxingtons ein?
+
+- Für einen Showdown zwischen Yamina und Chade ist es noch zu früh.

@@ -1,8 +1,7 @@
 Regelfragen:
 
-- Stats helfen Stats, Skills helfen Skills und Stats, Stats helfen nicht Skills. Beginners Luck Tests sind Stat-Tests,
-also kann entweder mit einem Skill oder einem Beginners Luck Test geholfen werden. Letzterer ist wiederum ein
-Stat-Test, weshalb Routine-Tests verfallen.
+- Stats helfen Stats, Skills helfen Skills und Stats, Stats helfen nicht Skills. Beginners Luck Tests sind Stat-Tests, also kann entweder mit einem Skill oder einem Beginners Luck Test geholfen werden. Letzterer ist wiederum ein Stat-Test, weshalb Routine-Tests verfallen.
+
 - Artha wird nicht zu der Anzahl geworfener Würfel in Bezug auf Advancement gezählt. Advantage hingegen schon.
-- Pro Belief gibt es entweder einen Fate oder einen Persona Artha. Nicht jedoch beides, auch wenn der Belief
-einen Action-Teil beinhaltet.
+
+- Pro Belief gibt es entweder einen Fate oder einen Persona Artha. Nicht jedoch beides, auch wenn der Belief einen Action-Teil beinhaltet.

@@ -2,17 +2,18 @@
 
 ## Die Helden
 ### Yamina
-50% Greywing, 50% Tuani, 100% Bastard
+50% Greywing, 50% Tuani, 100% Bastard  
 Schon im Kindesalter mit der nötigen Hinterlist ausgestattet, wird Yamina auf Geheiß
 ihres Vaters Galen im Assassinen-Handwerk ausgestattet und verfeinert ihres
-Fähigkeiten während eines Auslandssemesters beim fahrenden Volk, dem Cymbri.
+Fähigkeiten während eines Auslandssemesters beim fahrenden Volk, dem Cymbri.  
 Verkleidungskünstlerin.
 
 ### Godric
-_The_ War Wizard of the West
-Kehrte nach Jahren als Faustpfand für sichere Grenzen von den Stalwarts zurück.
+_The_ War Wizard of the West  
+Kehrte nach Jahren als Faustpfand für sichere Grenzen von den Stalwarts zurück.  
 Ein Funke Magie war erwacht und wurde in der Ausbildung bei Ulrik of Craggenmoor
-zu einem Feuer geschürt. Übernahm von seinem Lehrmeister den Titel "War Wizard of the West"
+zu einem Feuer geschürt.  
+Übernahm von seinem Lehrmeister den Titel "War Wizard of the West"
 und lebt nun mit seinem Greifen Midnight in einer Turm-WG in Rimmersgard.
 
 ### Falcot
@@ -65,6 +66,7 @@ Turnierplatz am alten Turm / Mahnmal. An einem Fluss gelegen. Auf den Ruinen des
 
 ## Personen
 ### Gillian
+Ehemaliger Champion des Hauses Greyfeather. Verliess das Haus nach einigen Querelen um Lohn und Unterhalt und schloss sich den Oxhams an. Mehrfacher Sieger des Tributturniers.
 
 ### Errold Buckington
 Ehemaliger Heckenritter, nun Godrics Champion

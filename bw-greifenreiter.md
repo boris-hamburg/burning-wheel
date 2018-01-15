@@ -3,7 +3,7 @@ Inspiration: Krieg der Rosen
 Inspiration: Six Duchies  
 Inspiration: Dark Albion
 
-In Angland ist ein schwacher König ist an der Macht. Sein Interesse an der Religion ist größer als an seinem Volk, seinen Regierungsgeschäften. Nervenzusammenbruch. Seine Frau regiert im Hintergrund, mit einem Rat an Beratern, von denen gemunkelt wird, dass viele von ihnen ihre Liebhaber sind.
+In Angland ist ein schwacher König an der Macht. Sein Interesse an der Religion ist größer als an seinem Volk, seinen Regierungsgeschäften. Nervenzusammenbruch. Seine Frau regiert im Hintergrund, mit einem Beraterstab, von denen gemunkelt wird, dass viele von ihnen ihre Liebhaber sind.
 
 Zwei Adelsfamilien (Haus A, Haus B) streiten um die Nachfolge.
 
@@ -14,7 +14,7 @@ Tribut für den Drachen muss erbracht werden, doch die Kassen der Greifenreiter 
 
 Der Vater, unterwegs um mit dem Mountain Folk über das Recht der Passquerung für die wichtigen Handelsrouten in die Hinterländer zu verhandeln, ist verschollen.
 
-Der Tribut muss bis zum Ende des Turniers erbracht werden, ansonsten Menschenopfer an den Drachen, das Haus wird zerschlagen, alle verlieren ihren Rank.
+Der Tribut muss bis zum Ende des Turniers erbracht werden, ansonsten Menschenopfer an den Drachen, das Haus wird zerschlagen, alle verlieren ihren Rang.
 
 ### Setting
 
@@ -54,6 +54,7 @@ Dort wird der Tribut entrichtet und das Tributturnier findet statt.
 - Alte Festungsanlage aus den Gründerzeiten, verbunden mit dem Tempel der stillen Schwestern?
 - Alte Festungsanlage, die durch den letzten Drachenangriff zerstört und nie wieder aufgebaut wurde.
 - Alter Turm, der durch den letzten Drachenangriff zerstört und nie wieder aufgebaut wurde. Ein Mahnmal. Steine sind durch die Hitze geschmolzen. Zu seinen Füssen ist die Tribüne des Königs errichtet worden.
+- Duellplatz / Platz der Rechtssprechung im Sinne der alten Wege.
 
 ##### Die Stadt im Sumpf
 Inspiration: Game of Thrones  

@@ -38,9 +38,7 @@ Warum ist Mephisto hinter Grimwald her? Weil Grimwald einen Teil Mephistos in se
 
 - In einem unbemerkten Moment trifft Grimwald auf Norna. Diese ist apathisch und hat jede Emphatie verloren. Kein Wunder, sie ist eine Art Zombie. Diese Begebnung soll dazu führen, dass Grimwald Hass gegenüber Alen Foxington empfindet. Wie es weiter geht - siehe oben.
 
-- Für das Duell überreicht Margo ihren Sohn und Champion Falcot das Duellschwert der Greyfeathers - a Spirit-Blade. In der Klinge kann von Zeit zu Zeit eine Landschaft erkannt werden. Laut Margo handelt es sich dabei um die Heimat der Greyfeathers, die erst als sie Wardens of the West wurden aus den Innenlanden an die Küste zogen. Dort fanden sie ein Haus vor, das sich mit den Greifen auskannte und verleibt sich dieses ein. Die Klinge riecht nicht nach Stahl oder Öl, sondern nach Wald. In der Klinge sind die Spirits der Heimat gefangen, unter anderem ein Fragment Hephistos.
-
-- Hephisto ist nicht nur ein Fragment in der Spirit-Klinge der Greyfeathers, sondern auch in zum Teil in Grimwalds Wolf gefangen.
+- Für das Duell überreicht Margo ihren Sohn und Champion Falcot das Duellschwert der Greyfeathers - a Spirit-Blade namens Syrinx. In der Klinge kann von Zeit zu Zeit eine Landschaft erkannt werden. Laut Margo handelt es sich dabei um die Heimat der Greyfeathers, die erst als sie Wardens of the West wurden aus den Innenlanden an die Küste zogen. Dort fanden sie ein Haus vor, das sich mit den Greifen auskannte und verleibt sich dieses ein. Die Klinge riecht nicht nach Stahl oder Öl, sondern nach Wald. In der Klinge sind die Spirits der Heimat gefangen, unter anderem ein Fragment Hephistos.
 
 - Hephisto manifestiert sich als gewaltiger Sturm, der sich über den Ebenen aufbaut und auftürmt. Schwarz und bedrohlich am Horizont hängt, auf eine Brücke wartend, um loszuschlagen.
 

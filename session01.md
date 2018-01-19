@@ -1,5 +1,5 @@
 ## Das Lied bisher
-Haus Greywing stehen dunkle Zeiten bevor.
+Dunkle Zeiten stehen Haus Greywing bevor.
 
 Die Greifen, mit denen die Wardens of the West seit Generationen die Küste Anglands schützen, sterben an einer mysteriösen Seuche.
 
@@ -28,23 +28,23 @@ Yamina, Godric und Falcot treffen ihre Mutter, Margo, die ihnen offenbart, dass 
 
 Führungslos, da ihr Vater verschollen ist, ersinnen die drei Geschwister den wagemutigen Plan, das Turnier zu gewinnen, in der Hoffnung, dass das ausgelobte Preisgeld ausreicht, den Tribut zu erbringen.
 
-Der designierte Champion der Greyfathers, Gilliam, schloss sich den Oxhams an, so dass Falcot genötigt wurde, anzutreten. Eine Rüstung wird gesucht, doch lediglich eine Zermonienrüstung gefunden. Des Weiteren gestaltet sich die Turniermeldung als schwierig. Jonathan Stalwort of Gont teilt mit, dass die Meldeliste bereits voll sei und Falcot höchstens als Nachrücker gemeldet werden könne.
+Der designierte Champion der Greywings, Gilliam, schloss sich den Oxhams an, so dass Falcot genötigt wird, anzutreten. Eine Rüstung wird gesucht, doch lediglich eine Zermonienrüstung gefunden. Des Weiteren gestaltet sich die Turniermeldung als schwierig. Jonathan Stalwort of Gont teilt mit, dass die Meldeliste bereits voll sei und Falcot höchstens als Nachrücker gemeldet werden könne.
 
 In der Zwischenzeit erfährt Yamina vom Taschendieb Will, dass ein neuer Star Chamber Siegelring geschmiedet wurde, welcher das Siegel der Foxingtons trägt.
 
 Als Yamina zu Godric und Falcot zurückkehrt, entbrennt eine Diskussion, welcher Turnierteilnehmer ausgeschaltet wird, um Platz für Falcot zu machen. Dieser will mit diesem Vorgehen offensichtlich nichts zu tun haben und verlässt seine Geschwister mit Ziel Schmied.
 
-Die Wahl Godrics fällt auf den Heckenritter Erold Buckington. Als Godric ihn zu sich rufen lässt, ist seine Hoffnung groß, dass er für die Greywings am Turnier teilnehmen soll. Da dem nicht so ist, bietet Godric an, die Laune Erolds mit einem Becher Wein zu heben, den ihm die als Schankmaid verkleidete Yamina reicht und mit einem Abführmittel versüsst.
+Die Wahl Godrics fällt auf den Heckenritter Erold Buckington. Als Godric ihn zu sich rufen lässt, ist Erolds Hoffnung groß, dass er für die Greywings am Turnier teilnehmen soll. Da dem nicht so ist, bietet Godric an, die Laune Erolds mit einem Becher Wein zu heben, den ihm - als Schankmaid verkleidet und mit einem Abführmittel versüsst - Yamina reicht.
 
-Greif ersetzt Hirsch, als Falcots Schild seinen Platz unter den Turnierteilnehmern erhält.
+Greif ersetzt Hirsch, als Falcots Schild zwischen denen der anderen Turnierteilnehmer eingereiht wird.
 
 ## Orte
 ### Rimmersgard
-Turnierplatz am alten Turm / Mahnmal
+Der Turnierplatz liegt außerhalb Rimmersgards im Schatten des alten Turms, einem Mahnmal des letzten Angriffs Vermitraxs. Geschmolzene Steine zeugen von der Urgewalt des Drachens.
 
 ## Personen
 ### Galen Greywing of Angland
-Familienoberhaupt. Verschollen im Reich des Mountain Folks.
+Familienoberhaupt. Verschollen im Reich des Mountain Folks. Wollte dort um das Wegerecht durch die Berge verhandeln, mit dem Ziel, neue Handelsrouten in die Flusslande zu öffnen.
 
 ### Margo Greywing of Angland
 Die Mutter von Godric und Falcot. Ganz eindeutig ist Falcot ihr Lieblingskind.
@@ -53,7 +53,7 @@ Die Mutter von Godric und Falcot. Ganz eindeutig ist Falcot ihr Lieblingskind.
 Der Greifenexperte der Greywings.
 
 ### Gilliam
-Der Champion der Greywings hat sich inzwischen den Oxhams ansgeschlossen und reitet für diese im Turnier. Die letzten fünf Jahre ungeschlagen.
+Fünf Jahre ungeschlagen, reitet der ehemalige Champion der Greywings nun für die Oxhams.
 
 ### Jonathan Stalwart of Angland
 Herr der Meldelisten
@@ -62,7 +62,7 @@ Herr der Meldelisten
 Eine feste Größe in der Rimmersgarder Taschendiebszene.
 
 ### Erold Buckington
-Heckenritter mit großen Hoffnungen zum Turnier angereist. Macht nach einem Gläschen Wein mit Godric nun Platz für einen Nachrücker.
+Heckenritter. Mit großen Hoffnungen zum Turnier angereist. Macht nach einem Gläschen Wein mit Godric nun Platz für einen Nachrücker.
 
 ### Phil Pholic of Angland
 Falcots Rivale.
@@ -71,13 +71,13 @@ Falcots Rivale.
 
 ### Erbringt den Tribut
 Vermitrax' Tribut muss bis zum Ende des Turniers erbracht werden.
-Ansonsten wird das Haus zerschlagen, der Besitz unter den anderen Häusern verteilt, der Sitz in der Star Chamber verschachert und ein Familienmitglied Vermitrax geopfert.
+Gelingt dies nicht, wird Haus Greywing zerschlange, der Besitz unter den anderen Häusern verteilt, der Sitz in der Star Chamber verschachert und ein Familienmitglied Vermitrax geopfert.
 
 ### Findet Galen
-Was geschah mit Galen während seiner Expedition in das Reich des Mountain Folks
+Was geschah mit Galen während seiner Expedition in das Reich des Mountain Folks?
 
 ### Heilt die Greifen
-
+Findet einen Weg die Greifen zu heilen und vor dem Aussterben zu bewahren.
 
 ## Lacher des Abends
 Die kleine Kiste für die zwei Silbermünzen. Dieser gierige Drache.

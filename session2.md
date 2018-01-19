@@ -6,11 +6,11 @@
 Auf Geheiß ihres Vaters, Galen, im Assassinen Handwerk ausgebildet, verfeinerte Yamina ihre Fähigkeiten während eines Auslandssemsters beim fahrenden Volk, den Cymbri. Verkleidungskünstlerin.
 ### Godric
 _The_ War Wizard of the West
-Wurde von seinem Vater als Pfaustpfand für sichere Grenzen den Stalwarts übergeben, lernte dort, dass Magie die Antwort auf alle Fragen ist und wurde anschließend zum War Wizard of the West. Hat in Rimmersgard eine Turm-WG mit seinem Greifen Midnight.
+Wurde von seinem Vater als Faustpfand für sichere Grenzen den Stalwarts übergeben. Lernte dort, dass Magie die Antwort auf alle Fragen ist und wurde zum War Wizard of the West. Hat in Rimmersgard eine Turm-WG mit seinem Greifen Midnight.
 ### Falcot
 Zu klein, um ein Greifenreiter zu werden, doch mit einem großen Herzen in der Brust, macht sich Falcot nach drei Jahren im Dienst der königlichen Armee auf, das Tributturnier zu gewinnen.
 ### Grimwald
-Das Ding aus dem Sumpf. Die Geister, die ich rief.
+Der Druide, bewandert in den alten Wegen, ist das spirituelle Rückgrat der Greywings. Wohnt mit einem Fuss im Sumpf, mit dem anderen in der Welt der Geister.
 ## Die Strophe
 Grimwald kommt an und erhält von Margo den Auftrag, Falcot davon abzubringen, am Turnier teilzunehmen.
 Grimwald bestärkt Falcot in seiner Entscheidung, am Turnier teilzunehmen und überreicht ihm einen Talisman. Dabei zieht er
@@ -42,19 +42,19 @@ Der Greifenexperte der Greywings, der Galen und Margo loyal dient.
 ### Gilliam
 Der ehemalige Champion der Greywings will seine fümfjährige Siegesserie beim Tributturnier nun für die Oxhams ausbauen. Falcots Jugendheld brachte ihm den Schwertkampf bei.
 ### Wicked Will
-Feste Größe der Rimmersgarder Taschendiebszene nach der Foxington Abreibe ohne feste Zähne.
+Feste Größe der Rimmersgarder Taschendiebszene. Nach Foxingtons Abreibe ohne feste Zähne.
 ### Erold Buckington
-Der Heckenritter traf mit großen Erwartungen und noch gößere, Durst in Rimmersgard ein. Unglücklicherweise wurde er auserkoren, für Falcot den Startplatz beim Turnier räumen zu müssen, doch das Blatt wendete sich zu seinen Gunsten, so dass er nun zu Team Godric gehört.
+Der Heckenritter traf mit großen Erwartungen und noch gößerem Durst in Rimmersgard ein. Unglücklicherweise wurde er auserkoren, für Falcot den Startplatz beim Turnier zu räumen. Doch das Blatt wendete sich - ist nun Mitglied im Team Godric.
 ### Phil Pholic of Angland
-Guter Reiter, schlechter Schwertkämpfer. Ein Geburtsfehler, soviel ist bekannt. Falcots Rivale diente mit ihm in der könglichen Armee. Schied in der ersten Runde des Turniers gegen Falcot aus.
+Guter Reiter, schlechter Schwertkämpfer. Ein Geburtsfehler, soviel ist bekannt. Während Phil mit Falcot in der königlichen Armee diente, entbrannte eine Rivalität zwischen den beiden. Umso mehr wurmt es Phil, in der ersten Runde des Turniers gegen Falcot auszuscheiden.
 ### Alen Foxington of Angland
-Hatte nicht nur eine Auge auf Norna, Grimwalds große Liebe, sondern auch auf einen Sitz in der Star Chamber geworfen.
+Hat nicht nur ein Auge auf Norna, Grimwalds große Liebe, sondern auch auf einen Sitz in der Star Chamber geworfen.
 ### Norna
-Grimwalds große Liebe, der jedoch, im Gegensatz zu Alen Foxington, die Mitgift nicht aufbringen konnte. Norna ging lieber in den Sumpf als mit dem Adeligen. Scheint den Weg am Ende jedoch rausgefunden zu haben. Apathic Trophy Wife.
+Grimwalds große Liebe, der jedoch, im Gegensatz zu Alen Foxington, die Mitgift nicht aufbringen konnte. Norna ging lieber in den Sumpf als mit dem Adeligen. Scheint den Weg am Ende jedoch nicht gefunden zu haben und ist nun Alens apathisches Trophy Wife.
 ### Rodney
 Barde. Falcots designierter Einpeitscher in der Arena.
-### Tywin Torrence of Anglands
-Gewann in der ersten Runde Guthbert Stalwart of Angland und ist nun Falcots Gegner in der zweiten Runde.
+### Tywin Torrence of Angland
+Gewann in der ersten Runde gegen Guthbert Stalwart of Angland und ist nun Falcots Gegner in der zweiten Runde.
 ### Alrik, Wizard of the East
 Umgeben von einer sechs Personen starken Coterie, die eine Quelle seiner Macht sind.
 ### Rashimi, Wizard of the South
@@ -76,6 +76,7 @@ Ansonsten wird das Haus zerschlagen, der Besitz unter den anderen Häusern verte
 Innerhalb des Hauses scheint es einen Spion zu geben, der brisante Familieninformationen nach außen gibt.
 
 ### Findet Galen
-Was geschah mit Galen während seiner Expedition in das Reich des Mountain Folks
+Was geschah mit Galen während seiner Expedition in das Reich des Mountain Folks?
 
 ### Heilt die Greifen
+Findet einen Weg die Greifen zu heilen und vor dem Aussterben zu bewahren.

@@ -38,7 +38,7 @@ Warum ist Mephisto hinter Grimwald her? Weil Grimwald einen Teil Mephistos in se
 
 - In einem unbemerkten Moment trifft Grimwald auf Norna. Diese ist apathisch und hat jede Emphatie verloren. Kein Wunder, sie ist eine Art Zombie. Diese Begebnung soll dazu führen, dass Grimwald Hass gegenüber Alen Foxington empfindet. Wie es weiter geht - siehe oben.
 
-- Für das Duell überreicht Margo ihren Sohn und Champion Falcot das Duellschwert der Greyfeathers - a Spirit-Blade namens Syrinx. In der Klinge kann von Zeit zu Zeit eine Landschaft erkannt werden. Laut Margo handelt es sich dabei um die Heimat der Greyfeathers, die erst als sie Wardens of the West wurden aus den Innenlanden an die Küste zogen. Dort fanden sie ein Haus vor, das sich mit den Greifen auskannte und verleibt sich dieses ein. Die Klinge riecht nicht nach Stahl oder Öl, sondern nach Wald. In der Klinge sind die Spirits der Heimat gefangen, unter anderem ein Fragment Hephistos.
+- Für das Duell überreicht Margo ihren Sohn und Champion Falcot das Duellschwert der Greyfeathers - a Spirit-Blade namens Syrinx. In der Klinge kann von Zeit zu Zeit eine Landschaft erkannt werden. Laut Margo handelt es sich dabei um die Heimat der Greyfeathers, die erst als sie Wardens of the West wurden aus den Innenlanden an die Küste zogen. Dort fanden sie ein Haus vor, das sich mit den Greifen auskannte und verleibt sich dieses ein. Die Klinge riecht nicht nach Stahl oder Öl, sondern nach Wald. In der Klinge sind die Spirits der Heimat gefangen, unter anderem ein Fragment Hephistos. Die Waffe vibriert leicht; es ist die Kraft der Spirits in der Klinge zu spüren. Alle Sword-Würfe werden Open-Ended. Besteht ein Wurf komplett aus Fehlwürfen, verlassen die Spirits die Klinge und das Schwert ist eine normale Waffe.
 
 - Hephisto manifestiert sich als gewaltiger Sturm, der sich über den Ebenen aufbaut und auftürmt. Schwarz und bedrohlich am Horizont hängt, auf eine Brücke wartend, um loszuschlagen.
 
@@ -49,3 +49,5 @@ Warum ist Mephisto hinter Grimwald her? Weil Grimwald einen Teil Mephistos in se
 - Während der zweiten Runde wird Godric von einer wichtigen Persönlichkeit, vielleicht einem der anderen Magier, eingeladen, das Duell zwischen Falcot und xyz auf der Tribüne zu verbringen. Oder vielleicht laden ihn die Foxingtons ein?
 
 - Für einen Showdown zwischen Yamina und Chade ist es noch zu früh.
+
+- Errold ist besofffen. Er lässt sich von seinem Knappen zu Baba Yog führen. In einer Ruine ausserhalb Rimmergards begiebt sich Errold in den Untergrund. Dort trifft er ein Wesen, das sich unter den stillen Schwestern versteckt. Tauscht Lebenskraft gegen Trait. Errold hat nichts zu verlieren / will unbedingt in den Rang eines Ritters aufsteigen. Dazu ist ihm jedes Mittel Recht. Das Duell ist wichtiger als das Turnier, denn hier geht es um Leben und Tod.

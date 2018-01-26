@@ -144,7 +144,7 @@ Vertreten im Parliament. Kann weitere Macht erlangen und Druck auf die Königin 
 
 ##### Haus Foxington
 
-##### Haus Greyfeather
+##### Haus Greywing
 Inspiration: Game of Thrones  
 Inspiration: Stark
 
@@ -175,6 +175,9 @@ Inspiration: Rob Roy
 
 Lebt in Rimmersgard. War einst eine wichtige Person. Verfault nun.
 Verlässt seinen Turm nicht mehr. Kommuniziert per Tauben.
+
+##### Die Nekromantin Baba Yog
+Unter den stillen Schwestern hat sich eine Nekromantin versteckt.
 
 ##### Ulrik of Craggenmoor
 Godrics Vorgänger als Wizard of the West.
@@ -240,7 +243,7 @@ Die Orks an den Grenzen. Nomaden?
 ##### Spirits of the Land
 Inspiration: Dark Albion
 
-Die alten Götter. Spirits of the Land. Als heidnisch abgetan. Wenn in Angland verehrt, dann nur heimlich. In den Randbezirken Semi-Öffentlich. Repräsentiert durch Druiden.  
+Die alten Götter. Spirits of the Land. Als heidnisch abgetan. Wenn in Angland verehrt, dann nur heimlich. In den Randbezirken Semi-Öffentlich. Repräsentiert durch Druiden. 
 
 #### Namen
 ##### Orte etc

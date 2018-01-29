@@ -23,7 +23,7 @@ Den alten Wegen folgend wird der Konflikt um die Vorherrschaft in der Familie du
 
 Norna ging in den Sumpf und starb. Alen Foxington brachte sie zu Rashimi, dem Wizard of the South, der heimlich ein Nekromant ist (wie unschwer an dem Deadwood Staff zu erkennen ist) der sie wieder zurück ins Leben holte. Leider sind dabei ihre Gefühle auf dem Grund des Sumpfes geblieben, so dass sie nicht mehr als ein Apathisches Trophy Wife ist. Aber vielleicht kann Rashimi sie für den richtigen Preis wiederum zurück ins Leben holen?
 
-Warum ist Mephisto hinter Grimwald her? Weil Grimwald einen Teil Mephistos in seinen Wolf bannte.
+Warum ist Hephisto hinter Grimwald her? Weil Grimwald einen Teil Hephisto in seinen Wolf bannte.
 
 ### Session 4
 - Healing of the Sick: Die stillen Schwestern heilen die Kranken am Rande des Sees. Ein Fest zu Ehren Burrs. Falcot kann sich dort heilen lassen. Aber natürlich nur unerkannt. Und vielleicht kommt er dann zu spät zum Duell.
@@ -60,3 +60,5 @@ Warum ist Mephisto hinter Grimwald her? Weil Grimwald einen Teil Mephistos in se
 - Turnierteilnehmer benennen.
 
 - Baba Yog könnte entweder eine Nekromatin oder die Mountain Witch sein, die sich unter den stillen Schwestern versteckt hält, bis es an der Zeit ist, ihre Festung wieder aufzubauen und Rache an Rimmersgard zu nehmen. Vielleicht ist auch Ulrik of Craggenmoor bereit, eine Allianz mit der Mountain Witch einzugehen.
+
+- Hepisto weiterhin als Sturm am Horizont ankündigen. Verfahren überlegen, wie Verwendung von Syrinx in Zusammenhang mit der Annäherung von Hephisto getrackt werden kann. Außerdem ist Hephisto hinter Grimwald her. WIe kann dieses Bedrohungsszenario weiter aufgebaut werden?

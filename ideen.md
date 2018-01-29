@@ -51,3 +51,12 @@ Warum ist Mephisto hinter Grimwald her? Weil Grimwald einen Teil Mephistos in se
 - Für einen Showdown zwischen Yamina und Chade ist es noch zu früh.
 
 - Errold ist besoffen. Er lässt sich von seinem Knappen zu Baba Yog führen. In einer Ruine ausserhalb Rimmergards begiebt sich Errold in den Untergrund. Dort trifft er ein Wesen, das sich unter den stillen Schwestern versteckt. Tauscht Lebenskraft gegen Trait. Errold hat nichts zu verlieren / will unbedingt in den Rang eines Ritters aufsteigen. Dazu ist ihm jedes Mittel Recht. Das Duell ist wichtiger als das Turnier, denn hier geht es um Leben und Tod. Eine Nekromantin versteckt sich unter den stillen Schwestern.
+
+### Session 5
+- Yamina und Grimwald wollen aus unterschiedlichen Gründen in den Palast eindringen. Yamina will zunächst den nächsten Gegner von Falcot, Tywin Torrence, außer Gefecht setzen. Ist Tywin überhaupt noch im Palast oder schon beim Turnier? Im Anschluss will sie nach dem Maulwurf bzw. dem Hintergrund des Falkensterbens suchen - weil Karo ein Detektivabenteuer haben möchte. Grimwald hingegen hat die Muster der Wachablösung etc studiert und bekommt einen 1D Bonus. Er will sich an Alen Foxington rächen.
+
+- Karte zeichnen.
+
+- Turnierteilnehmer benennen.
+
+- Baba Yog könnte entweder eine Nekromatin oder die Mountain Witch sein, die sich unter den stillen Schwestern versteckt hält, bis es an der Zeit ist, ihre Festung wieder aufzubauen und Rache an Rimmersgard zu nehmen. Vielleicht ist auch Ulrik of Craggenmoor bereit, eine Allianz mit der Mountain Witch einzugehen.

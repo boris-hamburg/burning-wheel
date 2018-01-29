@@ -54,7 +54,8 @@ Dort wird der Tribut entrichtet und das Tributturnier findet statt.
 - Alte Festungsanlage aus den Gründerzeiten, verbunden mit dem Tempel der stillen Schwestern?
 - Alte Festungsanlage, die durch den letzten Drachenangriff zerstört und nie wieder aufgebaut wurde.
 - Alter Turm, der durch den letzten Drachenangriff zerstört und nie wieder aufgebaut wurde. Ein Mahnmal. Steine sind durch die Hitze geschmolzen. Zu seinen Füssen ist die Tribüne des Königs errichtet worden.
-- Duellplatz / Platz der Rechtssprechung im Sinne der alten Wege.
+- Duellplatz / Platz der Rechtssprechung im Sinne der alten Wege. Steinkreis / Stonehedge. Kleiner Wald in der Nähe.
+- Greenwater. See vor den Toren Rimmersgards. Dort findet zu Zeiten des Turniers das "Blessing of the Sick" statt. In einer Ruine des letzten Vermitrax Angriffs findet sich im Wald, ein möglicher Zugang zu den Katakomben der stillen Schwestern.
 
 ##### Die Stadt im Sumpf
 Inspiration: Game of Thrones  
@@ -71,7 +72,7 @@ Inspiration: Drachenlanze
 
 Eine Stadt aus angeschwemmten Überresten von Schiffen.
 
-##### Landsend
+##### Stormhold
 Heimat der Greifenreiter an einer Steilküste. Stürme toben an den Klippen.
 An der Klippe sind die Nester der Greifen befestigt, verbunden durch Stege und erreichbar durch Leitern.
 
@@ -119,6 +120,20 @@ Inspiration: Name des Windes
 Inspiration: Dark Albion
 
 Ehemals Ureinwohner. Wurden vertrieben. Nun fahrendes Volk. Heimatlos. Ziehen von Stadt zu Stadt. Verwässertes Fae-Blut.
+
+##### Flusslande
+Hinter den Bergen des Mountain-Folks. Nur durch deren Pässe zu erreichen. Ertragreiche Handelsbeziehungen möglich.
+
+##### Innenlande
+Inspiration: Assassins Apprentice
+
+Gegenpol zu den Küstenlanden. Sehen nicht ein, Steuern etc. zum Schutz der Küsten zu zahlen.
+
+##### Die geschliffene Festung der Mountain Witch
+Inspiration: Mountain Witch
+
+Die Mountain Witch war einst eine Bedrohung für die Innenlande. Ihre Festung lag in den Bergen über Rimmersgard, wurde jedoch durch heldenhaften Einsatz vertrieben und die Festung mehrfach geschlifffen. Vielleicht wird berichtet, dass ab und an wieder Licht in der Festung gesehen wird.
+
 
 #### Häuser
 
@@ -177,7 +192,7 @@ Lebt in Rimmersgard. War einst eine wichtige Person. Verfault nun.
 Verlässt seinen Turm nicht mehr. Kommuniziert per Tauben.
 
 ##### Die Nekromantin Baba Yog
-Unter den stillen Schwestern hat sich eine Nekromantin versteckt.
+Unter den stillen Schwestern hat sich eine Nekromantin versteckt. Oder handelt es sich sogar um einen neuen Körper der Mountain Witch?
 
 ##### Ulrik of Craggenmoor
 Godrics Vorgänger als Wizard of the West.
@@ -243,7 +258,7 @@ Die Orks an den Grenzen. Nomaden?
 ##### Spirits of the Land
 Inspiration: Dark Albion
 
-Die alten Götter. Spirits of the Land. Als heidnisch abgetan. Wenn in Angland verehrt, dann nur heimlich. In den Randbezirken Semi-Öffentlich. Repräsentiert durch Druiden. 
+Die alten Götter. Spirits of the Land. Als heidnisch abgetan. Wenn in Angland verehrt, dann nur heimlich. In den Randbezirken Semi-Öffentlich. Repräsentiert durch Druiden.
 
 #### Namen
 ##### Orte etc

@@ -36,12 +36,17 @@ Der Tribut muss bis zum Ende des Turniers erbracht werden, ansonsten Menschenopf
 - Die alten Göttern. Spirits of the Land. Durch Druiden repräsentiert. Greifenreiter haben einen undercover Druiden.
 - Das fahrende Volk Cymbri. Vorfahren lebten als Sklaven unter den Fae, lehnten sich auf und vertrieben die Fae. Fae paarten sich mit Cymbri, Cymbri erbten Magie.
 - Mündel. Kinder / Mitglieder wachsen in einem anderen Adelshaus, je nach Stand, als Familienmitglieder auf. Dadurch werden die Beziehungen zwischen den Häusern gefestigt. Im Normalfall kehren die Mündel nach einigen Jahren zu ihren Familien zurück. Kommt es zu Auseinandersetzungen zwischen den Häusern, können Mündel als Druckmittel und Geiseln verwendet werden.
+- Die sieben Ur-Stürme (Hephisto etc.)
+- There is just one fire
+- Oerth -> Gont -> Angland (Welt -> Kontinent -> Königreich)
 
 #### Länder Oerths
 ##### Angland
 ##### Iberia
 ##### Eira
 ##### Zyx
+##### Middarmark
+##### Flusslande
 
 #### Orte
 ##### Rimmersgard
@@ -65,7 +70,7 @@ Heimat der Sumpfbewohner.
 Schwer zu finden, da die Stadt nicht befestigt ist
 und sich innerhalb des Sumpfs bewegt.  
 Ein Hauch von Verwesung umgibt die Bewohner, weil der Gestank des Sumpfes in den Kleidern hängt.  
-Der Deadwood Tree in der Mitte der Stadt im Sumpf. Der Baum, der weder Tod noch Lebendig ist und aus dem der Deadwood Staff hergestellt ist.
+Der Deadwood Tree in der Mitte der Stadt im Sumpf. Der Baum, der weder Tod noch Lebendig ist und aus dem der Deadwood Staff hergestellt wurde.
 
 ##### Treibgut
 Inspiration: Drachenlanze
@@ -134,8 +139,8 @@ Inspiration: Mountain Witch
 
 Die Mountain Witch war einst eine Bedrohung für die Innenlande. Ihre Festung lag in den Bergen über Rimmersgard, wurde jedoch durch heldenhaften Einsatz vertrieben und die Festung mehrfach geschlifffen. Vielleicht wird berichtet, dass ab und an wieder Licht in der Festung gesehen wird.
 
-
 #### Häuser
+Idee: Häusernamen an Tiere anlehnen (Greywing, Foxington, Buckington, Oxham) und geographisch in die Nähe derer Lebensräume setzen.
 
 ##### Haus A
 Inspiration: Krieg der Rosen  
@@ -158,6 +163,7 @@ Vertreten im Parliament. Kann weitere Macht erlangen und Druck auf die Königin 
 ##### Haus E
 
 ##### Haus Foxington
+Rote Haare
 
 ##### Haus Greywing
 Inspiration: Game of Thrones  
@@ -170,8 +176,11 @@ Greifenreiter. Wardens of the West. The Old Ways. Spirits of the Land.
 ##### Haus Oxham
 Ziemlich reich, diese Oxhams.   
 Beliefern die Greyfeathers mit Fleisch für ihre Greifen.
+Dickleibig.
 
 ##### Haus Stalwart
+
+##### Haus Farseer
 
 #### NSC
 
@@ -222,7 +231,7 @@ Es ist Tradition, dass ein Teil des Besitz des Toten als Totengabe
 in den Besitz der stillen Schwestern übergeht, um Kor gütig zu stellen und einen reibungslosen Übergang in das Totenreich zu erkaufen.
 Die Gaben werden treuhänderisch von den stillen Schwestern verwaltet
 und befinden sich mit den Gebeinen der Toten unterhalb des Burr Tempels in Rimmersgard.
-Wird nicht nach Burrs Riten begraben, stehen die Toten als Zombies / Ghoule etc wieder auf.
+Wird nicht nach Kor Riten begraben, stehen die Toten als Zombies / Ghoule etc wieder auf.
 
 ##### Die Ritter der Rose
 Inspiration: Drachenlanze (Ränke, Symbole)

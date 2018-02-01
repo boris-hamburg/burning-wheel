@@ -12,3 +12,7 @@ Chade, ihr Lehrmeister, ist ebenfalls ein Bastard und Galens älterer Halbbruder
 
 Doch wie wurden Chade und / oder Galen Aufmerksam auf Yaminas Talent?
 Yaminas heißblütiges Tuani-Blut brachte sie in ihrer Kindheit immer wieder in Probleme. Doch war es nicht ihr Temperament, welches Chade auf Yamina aufmerksam machte, sondern ihre Hinterlist / Skrupellosigkeit. Die älteren Kinder ärgerten sie wegen ihrer Herkunft. Als die Situation bereinigt schien, schlug Yamina unvermittelt und hinterhältig zu. Skrupellos, weil sie ausgegrenzt wurde, wobei sie doch dazugehören wollte. Mit Seife oder Lampenöl, geschwärzt mit Schuhcreme, damit ihre Falle im Fackelschein nicht reflektierte, präperierte sie eine Stufe in einem Turm. Der Anführer der Jungs, die Yamina verhöhnt und verprügelt hatten, hatte keine Chance und brach sich das Genick.
+
+### Ideen für Beliefs
+- Will zur Familie gehören und ist dem Haus Greywing gegenüber loyal. Für Chade ist Yamina nur ein Werkzeug des Hauses, um Aufträge auszuführen. Yamina stellt jedoch fest, dass sie nicht jeden Auftrag wie z.B. Godric zu beseitigen, ausführen kann oder will. Sie vermutet, dass der Auftrag von Margo stammt. Ihre Loyalität ist also nicht dem Haus sondern ihrem Vater gegenüber, um deren Aufmerksamkeit sie bemüht scheint. Ein möglicher Bogen ist also: Loyal dem Haus Greywing gegenüber; Margo mit der Frage konfrontieren, ob ich zur Familie gehöre. Loyal dem Haus Greywing gegenüber; Margo widersetzen.
+Ihr Moldbreaker ist also, dass sie zum einen dem Haus gegenüber loyal sein, zum anderen zur Familie gehören will. 

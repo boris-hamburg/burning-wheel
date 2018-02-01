@@ -61,4 +61,6 @@ Warum ist Hephisto hinter Grimwald her? Weil Grimwald einen Teil Hephisto in sei
 
 - Baba Yog könnte entweder eine Nekromatin oder die Mountain Witch sein, die sich unter den stillen Schwestern versteckt hält, bis es an der Zeit ist, ihre Festung wieder aufzubauen und Rache an Rimmersgard zu nehmen. Vielleicht ist auch Ulrik of Craggenmoor bereit, eine Allianz mit der Mountain Witch einzugehen.
 
-- Hepisto weiterhin als Sturm am Horizont ankündigen. Verfahren überlegen, wie Verwendung von Syrinx in Zusammenhang mit der Annäherung von Hephisto getrackt werden kann. Außerdem ist Hephisto hinter Grimwald her. WIe kann dieses Bedrohungsszenario weiter aufgebaut werden?
+- Hepisto weiterhin als Sturm am Horizont ankündigen. Verfahren überlegen, wie Verwendung von Syrinx in Zusammenhang mit der Annäherung von Hephisto getrackt werden kann. Außerdem ist Hephisto hinter Grimwald her. Wie kann dieses Bedrohungsszenario weiter aufgebaut werden?
+
+- Antagonisten auf die Beliefs der Spieler hetzen.

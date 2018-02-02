@@ -64,3 +64,7 @@ Warum ist Hephisto hinter Grimwald her? Weil Grimwald einen Teil Hephisto in sei
 - Hepisto weiterhin als Sturm am Horizont ankündigen. Verfahren überlegen, wie Verwendung von Syrinx in Zusammenhang mit der Annäherung von Hephisto getrackt werden kann. Außerdem ist Hephisto hinter Grimwald her. Wie kann dieses Bedrohungsszenario weiter aufgebaut werden?
 
 - Antagonisten auf die Beliefs der Spieler hetzen.
+
+- In Rimmersgard sind Mitglieder vieler Häuser, deren mitunter langwierigen Konflikte sich in wüsten Keilereien entladen, so dass der König angeordnet hat, dass alle Waffen innerhalb Rimmersgard mit einer Schnur gesichert werden müssen, um Blutvergiessen zu verhindern.
+
+- Wenn Yamina und Falcot zusammen in Rimmersgard sind: Bestandteil Yaminas Ausbildung war ein Auslandssemester im Puff. Der Zuhälter Sneaky Pete erkennt Yamina wieder und fordert sie rüde auf, ihn zurück zu begleiten, um ihre Schulden abzubezahlen, die durch Kost und Logis entstanden seien. Begleitet wird er von ein paar Schlägern. Yamina wird sich wehren, was die Aufmerksamkeit der Stadtwache auf sich zieht. Deren Anführer ist Falcots ehemaliger Kommandant, ein korruptes Arschloch, der aus purer boshaftigkeit zu gunsten Sneaky Petes entscheiden wird. Sollte die Argumentation in Richtung "Ich bin eine Greywing" kommen, wird der Kommandant dies mit der Anführerin des Hauses klären wollen und Margo ist natürlich der Auffassung, dass Yamina die Tochter einer Tuani Schlampe sei, die von Galen gevögelt wurde, aber niemals zur Familie gehören wird.

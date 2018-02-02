@@ -1,4 +1,8 @@
-Turnier:
+## Allgemein
+
+- "Characters have duties: to a clan, a school, a mentor, a sibling, a parent and these come into conflict with their desires and friendships"
+
+## Turnier
 Sobald Foxington Grimwald sieht, weiss er, dass Malakais Kratzspuren von Grimwalds Wolf stammen.
 Er will von Godric wissen, ob er Grimwalds Lehnsherr ist. Verneint Godric mischt sich seine Mutter Margo ein, erinnert ihn daran, dass sie in Abwesenheit des Vaters das Familienoberhaupt ist und Grimwald _natürlich_ Bestandteil des Hauses ist. Godric solle sich zu den alten Göttern bekennen.
 

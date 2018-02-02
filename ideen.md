@@ -68,3 +68,9 @@ Warum ist Hephisto hinter Grimwald her? Weil Grimwald einen Teil Hephisto in sei
 - In Rimmersgard sind Mitglieder vieler Häuser, deren mitunter langwierigen Konflikte sich in wüsten Keilereien entladen, so dass der König angeordnet hat, dass alle Waffen innerhalb Rimmersgard mit einer Schnur gesichert werden müssen, um Blutvergiessen zu verhindern.
 
 - Wenn Yamina und Falcot zusammen in Rimmersgard sind: Bestandteil Yaminas Ausbildung war ein Auslandssemester im Puff. Der Zuhälter Sneaky Pete erkennt Yamina wieder und fordert sie rüde auf, ihn zurück zu begleiten, um ihre Schulden abzubezahlen, die durch Kost und Logis entstanden seien. Begleitet wird er von ein paar Schlägern. Yamina wird sich wehren, was die Aufmerksamkeit der Stadtwache auf sich zieht. Deren Anführer ist Falcots ehemaliger Kommandant, ein korruptes Arschloch, der aus purer boshaftigkeit zu gunsten Sneaky Petes entscheiden wird. Sollte die Argumentation in Richtung "Ich bin eine Greywing" kommen, wird der Kommandant dies mit der Anführerin des Hauses klären wollen und Margo ist natürlich der Auffassung, dass Yamina die Tochter einer Tuani Schlampe sei, die von Galen gevögelt wurde, aber niemals zur Familie gehören wird.
+
+- Phil Pholic spioniert herum und stellt neugierig Fragen. Sein Pferd hatte nie zuvor gescheut, warum nun. Mit dieser Frage wird er Falcot konfrontieren.
+
+- Will Godric in Falcots Duell eingreifen, wird er von einer wichtigen Persönlichkeit wie einen anderen Magier, einem Foxington oder gar dem König / der Königin eingeladen, das Tjosten von der Tribüne aus zu beobachten. (Königin erst, wenn es gegen königliches Blut geht? (Dritte Runde))
+
+- Godrics träumt von dem Ort, an dem er mit Craggenmoor lebte. Ein friedlicher, heller Ort mit einem gesunden Ulrik. Doch nähert sich Godric dem Haus, breitet sich ein dunkler Schleier des Verfalls hinter ihm aus.

@@ -74,3 +74,5 @@ Warum ist Hephisto hinter Grimwald her? Weil Grimwald einen Teil Hephisto in sei
 - Will Godric in Falcots Duell eingreifen, wird er von einer wichtigen Persönlichkeit wie einen anderen Magier, einem Foxington oder gar dem König / der Königin eingeladen, das Tjosten von der Tribüne aus zu beobachten. (Königin erst, wenn es gegen königliches Blut geht? (Dritte Runde))
 
 - Godrics träumt von dem Ort, an dem er mit Craggenmoor lebte. Ein friedlicher, heller Ort mit einem gesunden Ulrik. Doch nähert sich Godric dem Haus, breitet sich ein dunkler Schleier des Verfalls hinter ihm aus.
+
+- "Unabhängige" Assassinen-Schule? Eine anderes Haus bemüht sich um Yaminas Dienste, schlägt vor, sie aus der Situation mit Sneaky Pete zu holen? Chade hat einen weiteren Schüler, von dem Yamina nichts weiß ... ?

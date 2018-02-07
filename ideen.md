@@ -1,6 +1,7 @@
 ## Allgemein
 
 - "Characters have duties: to a clan, a school, a mentor, a sibling, a parent and these come into conflict with their desires and friendships"
+- "Clans are righteous, unrighteous or ambitious"
 
 ## Turnier
 Sobald Foxington Grimwald sieht, weiss er, dass Malakais Kratzspuren von Grimwalds Wolf stammen.

@@ -13,12 +13,10 @@ Wurde von seinem Vater als Faustpfand für sichere Grenzen den Stalwarts überge
 Zu klein, um ein Greifenreiter zu werden, doch mit einem großen Herzen in der Brust, macht sich Falcot nach drei Jahren im Dienst der königlichen Armee auf, das Tributturnier zu gewinnen.
 
 ### Grimwald
-<<<<<<< Updated upstream
-Der Druide, bewandert in den alten Wegen, ist das spirituelle Rückgrat der Greywings. Wohnt mit einem Fuss im Sumpf, mit dem anderen in der Welt der Geister.
+Bewandert in alten Wegen ist der Druide das spirituelle Rückgrat der Greywings.
 
-=======
-Der Druide, bewandert in den alten Wegen, ist das spirituelle Rückgrat der Greywings. Verlässt seinen Hain nur selten und wenn, dann nur aus gutem Grund.
->>>>>>> Stashed changes
+Wohnt mit einem Fuss im Sumpf, mit dem anderen in der Welt der Geister.
+
 ## Die Strophe
 Grimwald, kaum in Rimmersgard angekommen, erhält von Margo den Auftrag, Falcot davon abzubringen, am Turnier teilzunehmen.
 

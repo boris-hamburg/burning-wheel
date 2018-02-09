@@ -3,16 +3,13 @@
 ## Die Helden
 ### Yamina
 50% Greywing, 50% Tuani, 100% Bastard  
-Schon im Kindesalter mit der nötigen Hinterlist ausgestattet, wird Yamina auf Geheiß
-ihres Vaters Galen im Assassinen-Handwerk ausgestattet und verfeinert ihres
-Fähigkeiten während eines Auslandssemesters beim fahrenden Volk, dem Cymbri.  
+Schon im Kindesalter mit der nötigen Hinterlist ausgestattet, wird Yamina auf Geheiß ihres Vaters Galen im Assassinen-Handwerk ausgebildet und verfeinert ihres Fähigkeiten während eines Auslandssemesters beim fahrenden Volk, dem Cymbri. und später im Bordell. 
 Verkleidungskünstlerin.
 
 ### Godric
 _The_ War Wizard of the West  
 Kehrte nach Jahren als Faustpfand für sichere Grenzen von den Stalwarts zurück.  
-Ein Funke Magie war erwacht und wurde in der Ausbildung bei Ulrik of Craggenmoor
-zu einem Feuer geschürt.  
+Ein Funke Magie war erwacht und wurde in der Ausbildung bei Ulrik of Craggenmoor zu einem Feuer geschürt.  
 Übernahm von seinem Lehrmeister den Titel "War Wizard of the West"
 und lebt nun mit seinem Greifen Midnight in einer Turm-WG in Rimmersgard.
 

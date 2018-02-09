@@ -19,6 +19,8 @@
 ## Orte
 ### Rimmersgard
 
+- Duellplatz. Mini-Stonehedge außerhalb Rimmersgards. An einer Klippe gelegen. Kleines Gehölz in der Nähe.
+
 ## Personen
 ### Margo
 ### Talon

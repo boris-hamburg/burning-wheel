@@ -3,11 +3,11 @@ Dunkle Zeiten stehen Haus Greywing bevor.
 
 Die Greifen, mit denen die Wardens of the West seit Generationen die Küste Anglands schützen, sterben an einer mysteriösen Seuche.
 
-Die Versuche, eine Heilung zu finden, sind kostspielig, jedoch erfolglos.
+Heilungsversuche sind vielfältig, kostspielig, erfolglos.
 
-Galen Greywing of Angland, Familienoberhaupt, kehrt von einer Expedition mit dem Ziel, wichtige Handelsrouten in die Flusslande zu öffnen, nicht zurück.  
+Die Flusslande versprechen Reichtum. Handelsrouten sollen geöffnet, Pakte geschmiedet werden. Hoffnung ruht auf einer Expedition, ein Himmelfahrtskommando in die Berge, zum Mountain Folk; Galen Greywing marschiert voran, doch kehrt nicht zurück, hinterlässt die Familie wartend, bangend, führungslos.
 
-Der Drachentribut muss geleistet werden, doch die Kassen sind leer ...
+Vermithrax, Geißel Anglands, fordert seinen Tribut in Münze oder Blut - doch die Kassen der Greywings sind leer.
 
 ## Die Helden
 ### Yamina

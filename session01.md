@@ -5,9 +5,9 @@ Die Greifen, mit denen die Wardens of the West seit Generationen die Küste Angl
 
 Heilungsversuche sind vielfältig, kostspielig ... und erfolglos.
 
-Flusslande versprechen Reichtum, der Weg dorthin versperrt durch das Reich des Mountain Folks, schroff und unwegsam. Galen Greywing bricht auf, hoffnungsvoll, nein zuversichtlich ob bestehender Blutsbande Pakte zu schmieden, Handelsrouten zu öffnen. Zurück bleibt die Familie, wartend, bangend, führungslos.
+Flusslande versprechen Reichtum, versperrt durch das Reich des Mountain Folks, schroff, unwegsam. Galen Greywing bricht auf, hoffnungsvoll Pakte zu schmieden, Handelsrouten zu öffnen. Zurück bleibt die Familie, wartend, bangend, führungslos.
 
-Und Vermithrax, Drache und Geißel Anglands, fordert Tribut in Münze oder Blut - doch die Kassen der Greywings sind leer...
+Vermithrax, Drache und Geißel Anglands, fordert Tribut in Münze oder Blut - doch die Kassen der Greywings sind leer...
 
 ## Die Helden
 ### Yamina

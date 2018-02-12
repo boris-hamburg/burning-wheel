@@ -1,13 +1,13 @@
 ## Das Lied bisher
-Dunkle Zeiten stehen Haus Greywing bevor.
+Haus Greywing taumelt dem Abgrund entgegen.
 
 Die Greifen, mit denen die Wardens of the West seit Generationen die Küste Anglands schützen, sterben an einer mysteriösen Seuche.
 
-Heilungsversuche sind vielfältig, kostspielig, erfolglos.
+Heilungsversuche sind vielfältig, kostspielig ... und erfolglos.
 
-Die Flusslande versprechen Reichtum. Handelsrouten sollen geöffnet, Pakte geschmiedet werden. Hoffnung ruht auf einer Expedition, ein Himmelfahrtskommando in die Berge, zum Mountain Folk; Galen Greywing marschiert voran, doch kehrt nicht zurück, hinterlässt die Familie wartend, bangend, führungslos.
+Flusslande versprechen Reichtum. Doch vor ihnen liegt das Reich des Mountain Folks. Eine Expedition bricht auf, Pakte zu schmieden, Handelsrouten zu öffnen. Voran reitet Galen Greywing, hoffnungsvoll, nein zuversichtlich ob alter Blutsbande. Zurück bleibt die Familie, wartend, bangend, führungslos.
 
-Vermithrax, Geißel Anglands, fordert seinen Tribut in Münze oder Blut - doch die Kassen der Greywings sind leer.
+Und Vermithrax, Drache und Geißel Anglands, fordert Tribut in Münze oder Blut - doch die Kassen der Greywings sind leer...
 
 ## Die Helden
 ### Yamina

@@ -1,13 +1,14 @@
 ## Das Lied bisher
-Unheil nimmt seinen Lauf.
+Haus Greywing steht am Abgrund.
 
 Die Greifen, mit denen die Wardens of the West seit Generationen die Küste Anglands schützen, sterben an einer mysteriösen Seuche.
+Wardens of the West. 
 
 Heilungsversuche sind vielfältig, kostspielig ... und erfolglos.
 
-Die Flusslande versprechen Reichtum. Doch der Weg dorthin ist schwierig, versperrt durch das Reich des Mountain Folks, schroff, unwegsam. Galen Greywing bricht auf, hoffnungsvoll Pakte zu schmieden, Handelsrouten zu öffnen. Zurück bleibt die Familie, wartend, bangend, führungslos.
+Der Reichtum der Flusslande verspricht neue Hoffnung. Schroff, unwegsam versperrt das Reich des Mountain Folks den Weg. Galen Greywing bricht auf, zuversichtlich Pakte zu schmieden, Handelsrouten zu öffnen - Blutsbande als Faustpfand. Zurück bleibt die Familie, wartend, bangend, führungslos.
 
-Vermithrax, Drache und Geißel Anglands, fordert Tribut in Münze oder Blut - doch die Kassen der Greywings sind leer...
+Fernab erwacht Vermithrax, Drache und Geißel Anglands, Tribut in Münze oder Blut fordernd - doch die Kassen der Greywings sind leer...
 
 ## Die Helden
 ### Yamina

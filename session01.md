@@ -1,12 +1,14 @@
 ## Das Lied bisher
 Haus Greywing steht am Abgrund.
 
-Die Greifen, mit denen die Wardens of the West seit Generationen die Küste Anglands schützen, sterben an einer mysteriösen Seuche.
-Wardens of the West. 
+>Die Greifen, auf deren Rücken die Wardens of the West seit Generationen die Küste Anglands schützen, sterben, von einer Seuche dahingerafft. Doch mit Kadavern können Grenzen nicht geschützt werden.
+Als Wardens of the West bekannt, schützt Haus Greywing die Küste Anglands, auf den Rücken ihrer Greife. Zeugten Greife von der Stärke der Greywings, sind Kadaver ein Zeichen der Schwäche, denn die Greife sterben, von einer Seuche dahingerafft. Ansehen schwindet, Begehrlichkeiten werden geweckt.
+Die Greifen sterben, von einer Seuche dahingerafft.
+Und sind die Greifen ein Symbol der Stärke, so zeugen Kadaver am Boden von Schwäche. Vertrauen in die Wardens schwindet, Begehrlichkeiten werden geweckt.
 
 Heilungsversuche sind vielfältig, kostspielig ... und erfolglos.
 
-Der Reichtum der Flusslande verspricht neue Hoffnung. Schroff, unwegsam versperrt das Reich des Mountain Folks den Weg. Galen Greywing bricht auf, zuversichtlich Pakte zu schmieden, Handelsrouten zu öffnen - Blutsbande als Faustpfand. Zurück bleibt die Familie, wartend, bangend, führungslos.
+Der Reichtum der Flusslande verspricht neue Hoffnung. Schroff und unwegsam versperrt das Reich des Mountain Folks den Weg. Galen Greywing bricht auf, zuversichtlich Passage zu erbitten, Handelsrouten zu öffnen. Zurück bleibt die Familie, wartend, bangend, führungslos.
 
 Fernab erwacht Vermithrax, Drache und Geißel Anglands, Tribut in Münze oder Blut fordernd - doch die Kassen der Greywings sind leer...
 
@@ -24,6 +26,8 @@ Zu klein, um ein Greifenreiter zu werden, macht sich Falcot nach drei Jahren im 
 
 ## Die Strophe
 Das Tributturnier zu Rimmersgard steht an.
+
+>Das Tributturner in Rimmersgard führt Yamina, Godric und Falcot zusammen. Über Jahre getrennt eigenen Wegen folgend, währt die Wiedersehensfreude nur kurz. Margo Greywing offenbart, den Tribut an Vermitrax nicht leisten zu können.
 
 Yamina, Godric und Falcot treffen ihre Mutter, Margo, die ihnen offenbart, dass die Greywings der Verpflichtung ihren Teil des Tributs an den Drachen Vermitrax zu entrichten, nicht nachkommen können. Wird die leere Truhe in ihrer Mitte nicht bis zum Ende des Turniers gefüllt, drohen drakonische Strafen: Haus Greywing wird zerschlagen, enteignet, vernichtet ... und Vermitrax Familienblut geopfert.
 

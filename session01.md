@@ -3,7 +3,7 @@ Haus Greywing steht am Abgrund.
 
 Bekannt als Wardens of the West schützen die Greywings Anglands Küste. Doch sterben ihre Greifen, von einer Seuche dahingerafft.
 
-Greife, furchteinflössend, zeugen von Stärke - Kadaver nicht. Respekt schwindet, Begehrlichkeiten geweckt.
+Greife, furchteinflössend, zeugen von Stärke - ihre Kadaver hingegen nicht. Respekt schwindet, Begehrlichkeiten werden geweckt.
 
 Heilungsversuche sind vielfältig, kostspielig ... und erfolglos.
 
@@ -30,7 +30,11 @@ Das Tributturnier zu Rimmersgard steht an.
 
 Yamina, Godric und Falcot treffen ihre Mutter, Margo, die ihnen offenbart, dass die Greywings der Verpflichtung ihren Teil des Tributs an den Drachen Vermitrax zu entrichten, nicht nachkommen können. Wird die leere Truhe in ihrer Mitte nicht bis zum Ende des Turniers gefüllt, drohen drakonische Strafen: Haus Greywing wird zerschlagen, enteignet, vernichtet ... und Vermitrax Familienblut geopfert.
 
+>Drei Geschwister ersinnen einen Plan, wagemutig. Das Turnier muss gewonnen, das Preisgeld als Tribut ausgezahlt werden.
+
 Führungslos, da ihr Vater verschollen ist, ersinnen die drei Geschwister den wagemutigen Plan, das Turnier zu gewinnen, in der Hoffnung, dass das ausgelobte Preisgeld ausreicht, den Tribut zu erbringen.
+
+
 
 Der designierte Champion der Greywings, Gilliam, schloss sich den Oxhams an, so dass Falcot genötigt wird, anzutreten. Eine Rüstung wird gesucht, doch lediglich eine Zermonienrüstung gefunden. Des Weiteren gestaltet sich die Turniermeldung als schwierig. Jonathan Stalwort of Gont teilt mit, dass die Meldeliste bereits voll sei und Falcot höchstens als Nachrücker gemeldet werden könne.
 

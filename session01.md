@@ -1,25 +1,15 @@
 ## Das Lied bisher
 Haus Greywing steht am Abgrund.
 
-Bekannt als Wardens of the West schützen die Greywings Anglands Küste. Doch sterben ihre Greifen, von einer Seuche dahingerafft.
-
-> Der Schutz Anglands Küste obliegt Haus Greywing, den Wardens of the West. Doch die Greifen der Greywings sterben, von einer Seuche dahingerafft.
+> Dem Schutz Anglands verpflichtet, patrollieren die Greywings die Küste, von Greifen getragen allen Feinden entgegen werfend.. Doch die Greifen sterben, von einer Seuche dahingerafft.
 
 Greife, furchteinflössend, zeugen von Stärke - ihre Kadaver hingegen nicht. Respekt schwindet, Begehrlichkeiten werden geweckt.
 
-> Greife, furchteinflössend, zeugen von Stärke - ihre Kadaver hingegen nicht. Wo Schwäche augenscheinlich ist, schwindet Respekt und Begehrlichkeiten werden geweckt.
-
 Heilungsversuche sind vielfältig, kostspielig ... und erfolglos.
 
-Der Reichtum der Flusslande verspricht Rettung. Schroff und unwegsam türmt sich das Reich des Mountain Folks auf, die Passage versperrend. Galen Greywing bricht auf, hoffnungsvoll. Blutsbande sollen Wegerecht garantieren, später Verhandlungen Handelsrouten öffnen.
+Der Reichtum der Flusslande verspricht Rettung. Schroff und unwegsam türmt sich das Reich des Mountain Folks auf, Passage versperrend. Galen Greywing bricht auf, hoffnungsvoll. Blutsbande sollen Wegerecht garantieren, Verhandlungen Handelsrouten öffnen.
 
 Fernab erwacht Vermithrax, Drache und Geißel Anglands, Tribut in Münze oder Blut fordernd - doch die Kassen der Greywings sind leer...
-
-> Der Reichtum der Flusslande verspricht neue Hoffnung. Schroff und unwegsam versperrt das Reich des Mountain Folks den Weg. Galen Greywing bricht auf, zuversichtlich Passage zu erbitten, Handelsrouten zu öffnen. Zurück bleibt die Familie, wartend, bangend, führungslos.
-
-> Der Reichtum der Flusslande verspricht neue Hoffnung. Schroff und unwirtlich versperrt das Reich des Mountain Folks den Weg. Galen Greywing bricht auf, zuversichtlich. Blutsbande als Faustpfand sollen Wegerechte ermöglichen, Handelsrouten öffnen.
-
-> Der Reichtum der Flusslande verspricht neue Hoffnung. Schroff und unwirtlich versperrt das Reich des Mountain Folks die Passage. Galen Greywing bricht auf, zuversichtlich, das Blutsbande Wegerecht gewähren, Handelsrouten öffnen.
 
 ## Die Helden
 ### Yamina

@@ -9,6 +9,10 @@ Heilungsversuche sind vielfältig, kostspielig ... und erfolglos.
 
 Der Reichtum der Flusslande verspricht neue Hoffnung. Schroff und unwegsam versperrt das Reich des Mountain Folks den Weg. Galen Greywing bricht auf, zuversichtlich Passage zu erbitten, Handelsrouten zu öffnen. Zurück bleibt die Familie, wartend, bangend, führungslos.
 
+>Der Reichtum der Flusslande verspricht neue Hoffnung. Schroff und unwirtlich versperrt das Reich des Mountain Folks den Weg. Galen Greywing bricht auf, zuversichtlich. Blutsbande als Faustpfand sollen Wegerechte ermöglichen, Handelsrouten öffnen.
+
+> Der Reichtum der Flusslande verspricht neue Hoffnung. Schroff und unwirtlich versperrt das Reich des Mountain Folks die Passage. Galen Greywing bricht auf, zuversichtlich, das Blutsbande Wegerecht gewähren, Handelsrouten öffnen.
+
 Fernab erwacht Vermithrax, Drache und Geißel Anglands, Tribut in Münze oder Blut fordernd - doch die Kassen der Greywings sind leer...
 
 ## Die Helden
@@ -30,7 +34,13 @@ Das Tributturnier zu Rimmersgard steht an.
 
 Yamina, Godric und Falcot treffen ihre Mutter, Margo, die ihnen offenbart, dass die Greywings der Verpflichtung ihren Teil des Tributs an den Drachen Vermitrax zu entrichten, nicht nachkommen können. Wird die leere Truhe in ihrer Mitte nicht bis zum Ende des Turniers gefüllt, drohen drakonische Strafen: Haus Greywing wird zerschlagen, enteignet, vernichtet ... und Vermitrax Familienblut geopfert.
 
->Drei Geschwister ersinnen einen Plan, wagemutig. Das Turnier muss gewonnen, das Preisgeld als Tribut ausgezahlt werden.
+>Drei vaterlose Geschwister ersinnen einen Plan, wagemutig. Das Turnier muss gewonnen werden, das Preisgeld als Tribut herhalten müssen.
+
+>An drei vaterlosen Geschwistern liegt es, das Haus zu retten. Ein Plan wird ersonnen, wagemutig. Das Turnier muss gewonnen, das Preisgeld Vermitrax geopfert werden.
+
+> Drei vaterlose Geschwister ersinnen einen Plan, wagemutig. Das Turnier muss gewonnen, Vermitrax das Preisgeld geopfert werden.
+
+> Drei vaterlose Geschwister ersinnen einen Plan, wagemutig. Das Turnier muss gewonnen, Vermitrax mit dem Preisgeld besänftigt werden.
 
 Führungslos, da ihr Vater verschollen ist, ersinnen die drei Geschwister den wagemutigen Plan, das Turnier zu gewinnen, in der Hoffnung, dass das ausgelobte Preisgeld ausreicht, den Tribut zu erbringen.
 

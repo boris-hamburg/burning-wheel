@@ -1,4 +1,11 @@
 ## Das Lied bisher
+Haus Greywing steht am Abgrund.
+
+Greife sterben, Vater verschollen im Reich des Mountain Folks. Kassen leer. Vermitrax fordert Tribut. Konkurrenten scharren mit den Hufen, ein neuer Star Chamber Ring wurde bereits hergestellt.
+
+Falcot wird auserkoren, das Turnier zu gewinnen, um mit dem Preisgeld den Tribut an Vermitrax zu erbingen. Als die Geschwister erfahren, dass das Teilnehmerfeld bereits feststeht, wird Errold Buckington ausgeschaltet, so dass Falcot nachrücken kann.
+
+Nur mit einer Zermonienrüstung ausgestattet, macht sich Falcot auf, das Turnier zu gewinnen...
 
 ## Die Helden
 ### Yamina

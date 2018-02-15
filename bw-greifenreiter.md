@@ -18,8 +18,14 @@ Der Tribut muss bis zum Ende des Turniers erbracht werden, ansonsten Menschenopf
 
 ### Setting
 
+#### Karte
+Inspiration: Six Duchies Assassins Apprentice, gespiegelt.
+Inspiration: England, Wales, Irland, Schottland?
+- Das Reich des Mountain Folk (Gebirge) verhindert den Zugang zu den reichen Flusslanden.
+- Rimmersgard (London) liegt an einem Fluss, dem "Greenwater"
+
 #### Ideen
-- Warden of the North
+- Wardens of the West
 - Peasant Rebellion
 - Räuber, die in den Wäldern leben und sich selbst "Rebellen" nennen.
 - Monster in abgelegenen Gebieten
@@ -160,7 +166,7 @@ Vertreten im Parliament. Kann weitere Macht erlangen und Druck auf die Königin 
 
 ##### Haus D
 
-##### Haus E
+##### Haus Buckington
 
 ##### Haus Foxington
 Rote Haare

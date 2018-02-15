@@ -1,10 +1,9 @@
 ## Das Lied bisher
 Haus Greywing steht am Abgrund.
 
->Die Greifen, auf deren Rücken die Wardens of the West seit Generationen die Küste Anglands schützen, sterben, von einer Seuche dahingerafft. Doch mit Kadavern können Grenzen nicht geschützt werden.
-Als Wardens of the West bekannt, schützt Haus Greywing die Küste Anglands, auf den Rücken ihrer Greife. Zeugten Greife von der Stärke der Greywings, sind Kadaver ein Zeichen der Schwäche, denn die Greife sterben, von einer Seuche dahingerafft. Ansehen schwindet, Begehrlichkeiten werden geweckt.
-Die Greifen sterben, von einer Seuche dahingerafft.
-Und sind die Greifen ein Symbol der Stärke, so zeugen Kadaver am Boden von Schwäche. Vertrauen in die Wardens schwindet, Begehrlichkeiten werden geweckt.
+Bekannt als Wardens of the West schützen die Greywings Anglands Küste. Doch sterben ihre Greifen, von einer Seuche dahingerafft.
+
+Greife, furchteinflössend, zeugen von Stärke - Kadaver nicht. Respekt schwindet, Begehrlichkeiten geweckt.
 
 Heilungsversuche sind vielfältig, kostspielig ... und erfolglos.
 

@@ -1,9 +1,12 @@
 ## Das Lied bisher
 Haus Greywing steht am Abgrund.
 
+> Wardens of the West. Der Titel bringt neben Ruhm und Ehre auch Verantwortung, Verpflichtungen. So patrolliert Haus Greywing Anglands Küste, von Greifen getragen, wirft sich Feinden entgegen und zahlt den Preis in Blut, der Sicherheit der Heimat verschrieben. Doch die Greife sterben, von einer Seuche dahingerafft.
+
 > Dem Schutz Anglands verpflichtet, patrollieren die Greywings die Küste, von Greifen getragen allen Feinden entgegen werfend.. Doch die Greifen sterben, von einer Seuche dahingerafft.
 
 Greife, furchteinflössend, zeugen von Stärke - ihre Kadaver hingegen nicht. Respekt schwindet, Begehrlichkeiten werden geweckt.
+> Zeugen furchteinflössende Greife von Stärke, sind ihre Kadaver ein Zeichen der Schwäche. Respekt schwindet, Begehrlichkeiten werden geweckt.
 
 Heilungsversuche sind vielfältig, kostspielig ... und erfolglos.
 

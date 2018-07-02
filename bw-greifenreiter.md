@@ -45,6 +45,7 @@ Inspiration: England, Wales, Irland, Schottland?
 - Die sieben Ur-Stürme (Hephisto etc.)
 - There is just one fire
 - Oerth -> Gont -> Angland (Welt -> Kontinent -> Königreich)
+- Hinter dem Thron des Herrschers steht ein Baum. Wird eine Entscheidung angefochten, wird eine Kerbe in den Baum geschlagen. Ist der Baum gefällt, wird der Herrscher abgesetzt.
 
 #### Länder Oerths
 ##### Angland
@@ -69,7 +70,7 @@ Dort wird der Tribut entrichtet und das Tributturnier findet statt.
 - Greenwater. See vor den Toren Rimmersgards. Dort findet zu Zeiten des Turniers das "Blessing of the Sick" statt. In einer Ruine des letzten Vermitrax Angriffs findet sich im Wald, ein möglicher Zugang zu den Katakomben der stillen Schwestern.
 
 ##### Die Stadt im Sumpf
-Inspiration: Game of Thrones  
+Inspiration: Game of Thrones, Grey Bastards  
 Thema: Verwesung, Tot, Muff, Zombies?  
 
 Heimat der Sumpfbewohner.
@@ -77,6 +78,8 @@ Schwer zu finden, da die Stadt nicht befestigt ist
 und sich innerhalb des Sumpfs bewegt.  
 Ein Hauch von Verwesung umgibt die Bewohner, weil der Gestank des Sumpfes in den Kleidern hängt.  
 Der Deadwood Tree in der Mitte der Stadt im Sumpf. Der Baum, der weder Tod noch Lebendig ist und aus dem der Deadwood Staff hergestellt wurde.
+Sumpfdämon Sludge Man. Kontrolliert Blutegel / Schlamm. Beseitigt Menschen / Leichen. Abkommen mit den Sumpfbewohnern?
+Sumpf namens "Old Maiden".
 
 ##### Treibgut
 Inspiration: Drachenlanze

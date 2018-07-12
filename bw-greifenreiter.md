@@ -45,7 +45,9 @@ Inspiration: England, Wales, Irland, Schottland?
 - Die sieben Ur-Stürme (Hephisto etc.)
 - There is just one fire
 - Oerth -> Gont -> Angland (Welt -> Kontinent -> Königreich)
-- Hinter dem Thron des Herrschers steht ein Baum. Wird eine Entscheidung angefochten, wird eine Kerbe in den Baum geschlagen. Ist der Baum gefällt, wird der Herrscher abgesetzt.
+- Hinter dem Thron des Herrschers steht ein Baum. Wird eine Entscheidung angefochten, wird eine Kerbe in den Baum geschlagen. Ist der Baum gefällt, wird der Herrscher abgesetzt. Oder aber jedes Mitglied des Rates hat eine Axt, mit der er auf den Herrscher werfen kann. Verfehlt er, ist er der Gnade des Herrschers ausgesetzt. Könnte z.B. für die Tuani des Mountain Folks oder die Grey Bastards passen.
+- Kiln. Eine Festung. In der Mitte ein Ofen. Angefeuert kann die Hitze des Ofens in einen langen, sich krümmenden Gang geleitet werden, der den einzigen Eingang in die Festung darstellt.
+- Strava. Stadt errichtet in den Überresten eines alten Tempels.
 
 #### Länder Oerths
 ##### Angland
@@ -118,6 +120,9 @@ Die öffentlichen Gebäude bestehen zumeist aus Bäumen, deren
 Äste durch Seile und andere Befestigungen zu einem Dach
 verwoben wurden.  
 Innerhalb des Mountains Folks gibt es die Tuani Krieger.
+
+##### Kiln
+Inspiration: Grey Bastards
 
 ##### Nomadenvolk
 Inspiration: Mongolen?

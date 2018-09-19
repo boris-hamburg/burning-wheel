@@ -48,6 +48,7 @@ Inspiration: England, Wales, Irland, Schottland?
 - Hinter dem Thron des Herrschers steht ein Baum. Wird eine Entscheidung angefochten, wird eine Kerbe in den Baum geschlagen. Ist der Baum gefällt, wird der Herrscher abgesetzt. Oder aber jedes Mitglied des Rates hat eine Axt, mit der er auf den Herrscher werfen kann. Verfehlt er, ist er der Gnade des Herrschers ausgesetzt. Könnte z.B. für die Tuani des Mountain Folks oder die Grey Bastards passen.
 - Kiln. Eine Festung. In der Mitte ein Ofen. Angefeuert kann die Hitze des Ofens in einen langen, sich krümmenden Gang geleitet werden, der den einzigen Eingang in die Festung darstellt.
 - Strava. Stadt errichtet in den Überresten eines alten Tempels.
+- Verschiedene Bestattungsrituale. Angland -> Stille Schwestern. Mountain Folk -> Sky Burials (Verstorbene an hohe Stelle im Gebirge den Aasfressern überlassen. Condor etc. sind "heilige Tiere". Sumpfbewohner -> Sludge Man)
 
 #### Länder Oerths
 ##### Angland
@@ -80,7 +81,7 @@ Schwer zu finden, da die Stadt nicht befestigt ist
 und sich innerhalb des Sumpfs bewegt.  
 Ein Hauch von Verwesung umgibt die Bewohner, weil der Gestank des Sumpfes in den Kleidern hängt.  
 Der Deadwood Tree in der Mitte der Stadt im Sumpf. Der Baum, der weder Tod noch Lebendig ist und aus dem der Deadwood Staff hergestellt wurde.
-Sumpfdämon Sludge Man. Kontrolliert Blutegel / Schlamm. Beseitigt Menschen / Leichen. Abkommen mit den Sumpfbewohnern?
+Sumpfdämon Sludge Man. Kontrolliert Blutegel / Schlamm. Beseitigt Menschen / Leichen. Abkommen mit den Sumpfbewohnern? 
 Sumpf namens "Old Maiden".
 
 ##### Treibgut
@@ -221,7 +222,7 @@ Unter den stillen Schwestern hat sich eine Nekromantin versteckt. Oder handelt e
 Godrics Vorgänger als Wizard of the West.
 Nahm Godric bei sich auf und lehrte ihn Magie. Unterschätzte sowohl Godrics Talent als auch seinen Ehrgeiz. Wurde von Godric ausgebootet. Liess sich daraufhin, um seine Stellung zurück zu gewinnen, mit dunklen Mächten ein und ist nun ein von Korruption zerfressenes Monstrum, einzig getrieben von dem Wunsch nach Rache.
 Craggenmoor gab Godric zum erstenmal Bestätigung. Er war der einzige, der Potential in ihm sah und nahm ihn als Schüler auf. Zum erstenmal war Godric keine Enttäuschung wie für seinen Vater oder Ballast / Mittel zum Zweck oder ein notwendiges Übel wie für die Stalwarts.
-Craggenmoor half Godric Selbstbewusstsein, Glauben in die eigene Stärke zu entwickeln. Die Selbstzweifel, nie gut genug zu sein, sind noch da, aber rückten in den Hintergrund. Doch vielleicht gab Craggenmoor Godric zu viel Selbstbewusstsein, gepaart mit Ehrgeiz es allen zeigen zu wollen, erschuf Craggenmoor ein opportunistisches Monster - das ihn ausgebootete ... und selbst zum Monster werden liess.
+Craggenmoor half Godric Selbstbewusstsein, Glauben in die eigene Stärke zu entwickeln. Die Selbstzweifel, nie gut genug zu sein, sind noch da, aber rückten in den Hintergrund. Doch vielleicht gab Craggenmoor Godric zu viel Selbstbewusstsein, gepaart mit Ehrgeiz es allen zeigen zu wollen, erschuf Craggenmoor ein opportunistisches Monster - das ihn ausgebootete ... und selbst zum Monster werden ließ.
 
 ##### Chade
 Galens älterer Halb-Bruder, Yaminas Onkel. Galens Assassin. Halb Greywing, halb Cymbri. Konnte niemals Thronfolger werden. Hat Kontakte zu den Cymbri, konnte daher Yamina zu ihnen ins Auslandssemster schicken.
@@ -238,14 +239,14 @@ zu den Reichen der Orks bewachen. Sind natürlich nicht gut angesehen. Und stink
 Inspiration: Black Company
 
 Frauen bringen Kinder ins Leben, Frauen bringen Tote in Grab.
-Die stillen Schwestern dienen dem Gott Kor.
+Die stillen Schwestern dienen dem Gott Burr.
 Bringen den Tribut inklusive eventuell vorhandenen Menschenopfer
 zu Vermitrax.
 Es ist Tradition, dass ein Teil des Besitz des Toten als Totengabe
-in den Besitz der stillen Schwestern übergeht, um Kor gütig zu stellen und einen reibungslosen Übergang in das Totenreich zu erkaufen.
+in den Besitz der stillen Schwestern übergeht, um Burr gütig zu stellen und einen reibungslosen Übergang in das Totenreich zu erkaufen.
 Die Gaben werden treuhänderisch von den stillen Schwestern verwaltet
 und befinden sich mit den Gebeinen der Toten unterhalb des Burr Tempels in Rimmersgard.
-Wird nicht nach Kor Riten begraben, stehen die Toten als Zombies / Ghoule etc wieder auf.
+Wird nicht nach Burr Riten begraben, stehen die Toten als Zombies / Ghoule etc wieder auf.
 
 ##### Die Ritter der Rose
 Inspiration: Drachenlanze (Ränke, Symbole)

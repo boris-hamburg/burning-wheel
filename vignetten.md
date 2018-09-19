@@ -6,3 +6,5 @@ Turnier
 - Der Gestank der War-Pigs
 - Buchmacher
 - Der Lärm der Zeltstadt
+- Blessing of the Sick
+- Marsch der Schilder

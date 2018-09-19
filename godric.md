@@ -21,3 +21,11 @@ Godric nutzte Craggenmoor aus. Als er nichts mehr lernen konnte, nahm er dessen 
 Mit übertriebenen Selbstbewusstsein Selbstzweifel überspielen.
 
 "Eigentlich wollte ich Mutter nicht töten und die Führung der Familie übernehmen, weil ich mir die Verantwortung nicht zutraue, aber Vater sagte immer, ich könne nicht mal Schafe hüten - fuck'em, here i come!"
+
+### Ideen
+
+### Traits
+
+### Beliefs
+
+### Instincts

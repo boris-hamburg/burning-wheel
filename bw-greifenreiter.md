@@ -42,7 +42,7 @@ Inspiration: England, Wales, Irland, Schottland?
 - Die alten Göttern. Spirits of the Land. Durch Druiden repräsentiert. Greifenreiter haben einen undercover Druiden.
 - Das fahrende Volk Cymbri. Vorfahren lebten als Sklaven unter den Fae, lehnten sich auf und vertrieben die Fae. Fae paarten sich mit Cymbri, Cymbri erbten Magie.
 - Mündel. Kinder / Mitglieder wachsen in einem anderen Adelshaus, je nach Stand, als Familienmitglieder auf. Dadurch werden die Beziehungen zwischen den Häusern gefestigt. Im Normalfall kehren die Mündel nach einigen Jahren zu ihren Familien zurück. Kommt es zu Auseinandersetzungen zwischen den Häusern, können Mündel als Druckmittel und Geiseln verwendet werden.
-- Die sieben Ur-Stürme (Hephisto etc.)
+- Die sieben Ur-Stürme (Hephisto etc.). Hephisto ist der Sturm der Ebenen. Ein anderer ist ein ewiger Tornado auf dem Meer, gewaltätig, Schiffe zertrümmernd.
 - There is just one fire
 - Oerth -> Gont -> Angland (Welt -> Kontinent -> Königreich)
 - Hinter dem Thron des Herrschers steht ein Baum. Wird eine Entscheidung angefochten, wird eine Kerbe in den Baum geschlagen. Ist der Baum gefällt, wird der Herrscher abgesetzt. Oder aber jedes Mitglied des Rates hat eine Axt, mit der er auf den Herrscher werfen kann. Verfehlt er, ist er der Gnade des Herrschers ausgesetzt. Könnte z.B. für die Tuani des Mountain Folks oder die Grey Bastards passen.
@@ -81,7 +81,7 @@ Schwer zu finden, da die Stadt nicht befestigt ist
 und sich innerhalb des Sumpfs bewegt.  
 Ein Hauch von Verwesung umgibt die Bewohner, weil der Gestank des Sumpfes in den Kleidern hängt.  
 Der Deadwood Tree in der Mitte der Stadt im Sumpf. Der Baum, der weder Tod noch Lebendig ist und aus dem der Deadwood Staff hergestellt wurde.
-Sumpfdämon Sludge Man. Kontrolliert Blutegel / Schlamm. Beseitigt Menschen / Leichen. Abkommen mit den Sumpfbewohnern? 
+Sumpfdämon Sludge Man. Kontrolliert Blutegel / Schlamm. Beseitigt Menschen / Leichen. Abkommen mit den Sumpfbewohnern?
 Sumpf namens "Old Maiden".
 
 ##### Treibgut

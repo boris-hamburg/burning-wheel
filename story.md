@@ -1,4 +1,5 @@
 ### Eskil
+
 - Grabstätte. Ein verfluchter Ort. Der Fluch sinkt in den Boden, das Gestein und erweckt den Begrabenen zum Leben.
 - Das Böse breitet sich schleichend aus.
 - Vieh flieht, verendet.
@@ -23,9 +24,89 @@
 - Kleinwüchsiger arbeitet in der Kanalisation. Klein wie ein Kind, aber wesentlich stärker. Daher "besser" geeignet.
 - "Ich habe schon schlimmeres gerochen."
 
+### Schreiber
+
+- Kloster. Ein Schreiber tickt aus, weil er Texte aus einem Buch kopieren soll, die seiner Meinung nach falsch sind / seinen ehemaligen Herren in einem schlechten / falschen Licht erscheinen lassen.
+- Ein Ereignis soll so beschönigt, per Bücher als Wahrheit unter das Volk gebracht werden.
+- Der Schreiber wird erwischt. Des Nachts kommen Reiter, stecken das Kloster in Brand, töten alle Zeugen. 
+- Ein paar Novizen können entkommen.
+
+### Schlacht
+
+- Vor einer wichtigen Schlacht wird der König im Lager ermordet.
+
+### Greifenreiter
+
+### Case 1
+
+- Jury
+- Erstickte Opfer
+- Windelementar / wyld fae
+- Beschworen vom Sohn eines Opfers
+- Laws of Magic / Wardens
+- Zeitungsausschnitte über Prozess
+- Mit Klagen überhäuft
+- Abstellgleis
+- Büro des Richters
+- Verletzbar durch Cold Iron
+- Anna Falcone Opfer von White Court Vampires -> Addict. Aus der Öffentlichkeit verschwunden -> Ebenfalls tot durch Breathtaker
+- Flashback in dem John und Herja für den Tod der Sullivans verantwortlich sind. 
+- White Court dringt in das Geschäftsfeld von Falcone (Prostitution / Drogenhandel) ein. Annas Abhängigkeit ist eine Warnung.
+
+### Case 2
+
+- Krankenhaus
+- Ehemalige Fabrik. Kinderarbeit. Abgebrannt. Krankenhaus von Falcone. Obamacare -> Wohltäter der Armen in Harlem. Nur Fassade für Crime.
+- Ghouls
+- Goldzähne nicht in Urne.
+- Verschwundene Bauarbeiter / Kanalarbeiter als zweiter Fall. Abwasserkanal als Wege für die Ghoule.
+
+
+### Case 3
+
+- Brückentroll.
+- Arturs Abenteuer.
+- Kind über Brücke bringen. Als Kidnapper beschuldigt. Polizei auf der einen, Fluchtwagen auf der anderen Seite der Brücke.
+- Troll beansprucht das Kind für sich.
+
+### Case 4
+
+- Schrottplatz-Golem
+
+### Case 5
+
+- The Wolf of Wall Street
+- Werwolf
+- Tötet sein Ex-Geliebten
+
 ### Ideen
 
 - "Wir sind umzingelt!" - "Hervorragend. Dann können wir in alle Richtungen angreifen!"
 - Alles in Ordnung. Er hat seinen Becher nicht abgesetzt. Eskaliert weiter. Setzt den Becher ab. Verwüstung, Zerstörung.
 - "Wir sind ein Team, eine Familie! Niemand muss alleine sterben!". Ein freundlicher Klaps. "Viel Glück, Junge. Wir sehen uns draußen."
 - Gefährlich. Nicht beleidigen. Kopf runter. Unsichtbar werden. "Was wollt ihr Arschlöcher?!?"
+- Henker. Nach friedlicher Revolution und der Abschaffung der Todesstrafe arbeitslos. Furcht vor Repressalien. 
+
+- Big Trouble in Little China
+- Nuke City
+- Phantom Subway Lines
+- NYPD
+- The City beneath the City
+- Hurrikan Katrina
+- New York Blackout
+- Statue of Liberty
+- Brooklyn Bridge
+- Chinatown
+- Little Italy
+- Central Park
+- Times Square
+- Harlem
+- Brooklyn
+- Broadway
+- MSG
+- Ground Zero
+- Empire State Building
+- New Jersey
+- Runtergekommenes Stundenhotel
+- Crack House
+- Werwolf Motorradgang

@@ -41,6 +41,10 @@
 
 ## Eine Armee Untoter Tiere
 
+## Die Flucht vom Hof
+
+- BW Standard Abenteuer
+
 ### Ideen
 
 - "Wir sind umzingelt!" - "Hervorragend. Dann können wir in alle Richtungen angreifen!"

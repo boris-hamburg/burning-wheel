@@ -1,0 +1,182 @@
+<!-- HTML -->
+<head>
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
+	
+	<link href='http://fonts.googleapis.com/css?family=Lato:100,300' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=UnifrakturCook:700' rel='stylesheet' type='text/css'>
+	<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+	<style>
+	html {
+		background: -webkit-radial-gradient(
+			center top,
+			circle,
+			#615B53,
+			#222222);
+		background: radial-gradient(
+			circle at center top,
+			#615B53,
+			#222222);
+		background-attachment: fixed;
+		width:100%;
+		height:100%;
+		font-size:15px;
+	}
+
+#text {
+	position absolute;
+	display: block;
+	margin: 80px auto;
+	text-align: center;
+	font-family: 'Lato', sans-serif;
+	font-size: 1.5em;
+	color: #E1EDED;
+	letter-spacing: 10px;
+	text-transform: uppercase;
+}
+
+#text b {
+	color: #D68513;
+}
+
+#text span {
+	color: #E1EDED;
+
+}
+
+#wrap {
+	margin: 0px auto;
+	width: 100px;
+	height: 100px;
+	transform:rotate(-135deg);
+	/* moved original rotate to here to stop animation messing up */
+}
+
+#A {
+	position: absolute;
+	display:block;
+	background: transparent;
+	width:110px;
+	height:110px;
+	border-radius:20px 30000px 20000px ;	
+	box-shadow:-20px -20px 30px rgba(0,0,0,.3);	
+	-webkit-transition: all 1s ease-in-out;
+	-o-transition: all 1s ease-in-out;
+	-moz-transition: all 1s ease-in-out;
+	transition: all 1s ease-in-out;
+}
+
+#A:before {
+	content:'';
+	position: absolute;
+	display: block;
+	width: 101px;
+ 	height: 95px;
+	margin: 25px;
+ 	background: #ebebeb;
+ 	-moz-border-radius: 100px 0 50px 0;
+ 	-webkit-border-radius: 100px / 50px;
+ 	border-radius: 100px / 50px;
+	border-top: solid 5px #746D7A;
+	transform:rotate(135deg);
+}
+
+#A:after {
+	content:'';
+	display:block;
+	background: #ebebeb;
+	margin-left: .5px;
+	margin-top: .5px;
+	width:109.5px;
+	height:109.5px;
+	border-radius:20px 30000px 20000px ;	
+}
+
+#A:hover {
+ 	margin: -20px;
+	box-shadow:-4px -4px 20px rgba(0,0,0,.6);
+}
+
+#logo-a {
+	position: absolute;
+	display: block;
+	text-transform: uppercase;
+	transform: rotate(135deg);
+	margin: 16px 0px 0px 40px;
+	text-align: center;
+	font-size: 5em;
+	font-family: 'UnifrakturCook', cursive;
+	color: #4f4f4f;
+	text-shadow: 1px 1px #efefef, -1px -2px #2f2f2f;	
+}
+.center {
+    margin: auto;
+    width: 630px;
+}
+#content {
+	position absolute;
+	display: block;
+	margin: 80px auto;
+	text-align: left;
+	font-family: 'Lato', sans-serif;
+	font-size: 1.5em;
+	color: #E1EDED;
+	letter-spacing: 10px;
+	text-transform: uppercase;
+}
+#content h1 {
+	font-size: 34px;
+}
+#content p {
+	font-family: 'Raleway', sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 15px;
+	font-stretch: 100%;
+	letter-spacing: 2px;
+	line-height: 24px;
+	margin: 24px 0;
+	text-size-adjust: 100%;
+	text-transform: none;
+	vertical-align: baseline;
+}
+.firstcharacter {
+	color: #D68513;
+	text-shadow: 1px 1px #efefef, -1px -2px #2f2f2f;	
+	float: left;
+	font-family: 'UnifrakturCook', cursive;
+	font-size: 75px;
+	line-height: 60px;
+	padding-top: 4px;
+	padding-right: 8px;
+	padding-left: 3px;
+}
+	</style>
+</head>
+
+<body>
+	<div id="text"><b>Burning Wheel:</b> <span>Greifenreiter</span></div>
+	<div id="wrap">
+		<a href="#"><div id="A"><div id="logo-a">g</div></div></a>
+	</div>
+	<div id="content" class="center">
+		<h1>Das Lied bisher</h1>
+		<p><span class="firstcharacter">W</span>ardens of the West. Der Titel bringt neben Ruhm und Ehre auch Verantwortung, Verpflichtungen. Auf den Rücken ihrer mächtigen Greifen patrolliert Haus Greywing Anglands Küste. Der Sicherheit der Heimat verschrieben bezahlen sie den Preis dafür in Blut.</p>
+		<p>Doch die Greife sterben, von einer Seuche dahingerafft.</p>
+		<p>Greife, furchteinflössend, zeugen von Stärke - ihre Kadaver hingegen nicht. Respekt schwindet, Begehrlichkeiten werden geweckt.</p> 
+		<p>Heilungsversuche sind vielfältig, kostspielig ... und erfolglos.</p>
+		<p>Der Reichtum der Flusslande verspricht Rettung. Schroff und unwegsam türmit sich das Reich des Mountain Folks auf, Passage versperrend. Galen Greywing bricht auf, hoffnungsvoll. Blutsbande sollen Wegerecht garantieren, Verhandlungen Handelsrouten öffnen.</p>
+		<p>Fernab erwacht der Drache Vermithrax. Die Geißel Anglands fordert Tribut in Münze oder Blut - doch die Kassen er Greywings sind leer...</p>
+		<!--<h1>Die Helden</p>
+		<h3>Yamina</h3>
+		<p class="punchline">50% Greywing, 50% Tuani, 100% Bastard.</p>
+		<p>Auf Geheiß ihres Vaters, Galen, im Assassinen Handwerk ausgebildet, verfeinerte Yamina ihre Fähigkeiten während sie beim fahrenden Volk, den Cymbri, lebte.</p>
+		<h3>Godric</h3>
+		<p class="punchline">_The_ Wizard of the West</p>
+		<p>Lebte als Mündel bei den Stalwarts und lernte dort Magie.</p>
+		<h3>Falcot</h3>
+		<p class="punchline">Kleiner Mann, großes Herz</p>
+		<p>Zu klein, um ein Greifenreiter zu werden, macht sich Falcot nach drei Jahren im Dienst der königlichen Armee auf, mit seinem Pony Willow die Familie zu retten.</p> -->
+		<h1>Die Strophe</h1>
+		<p><span class="firstcharacter">D</span>as Tributturnier in Rimmersgard führt Yamina, Godric und Falcot zusammen. Über Jahre getrennt eigenen Wegen folgend, währt die Wiedersehensfreude nur kurz. Margo Greywing offenbart, den Tribut an Vermitrax nicht leisten zu können.</p>
+	</div>
+</body>

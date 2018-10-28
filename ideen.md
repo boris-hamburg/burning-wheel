@@ -81,3 +81,13 @@ Warum ist Hephisto hinter Grimwald her? Weil Grimwald einen Teil Hephisto in sei
 - Godrics träumt von dem Ort, an dem er mit Craggenmoor lebte. Ein friedlicher, heller Ort mit einem gesunden Ulrik. Doch nähert sich Godric dem Haus, breitet sich ein dunkler Schleier des Verfalls hinter ihm aus.
 
 - "Unabhängige" Assassinen-Schule? Eine anderes Haus bemüht sich um Yaminas Dienste, schlägt vor, sie aus der Situation mit Sneaky Pete zu holen? Chade hat einen weiteren Schüler, von dem Yamina nichts weiß ... ?
+
+### Session 6
+
+- Wie geht es mit dem Turnier, nun, wo der Palast abgebrannt ist, weiter? Wird das Turnier abgesagt und der Tribut trotzdem erbracht? Wird der Tribut benötigt, um den Palast zu renovieren?
+
+- Was würde geschehen, wenn Margaret das Turnier absagt und den Tribut einfordert, um den Palast zu renovieren?
+
+- Alen Foxington weiß, dass Grimwald hinter dem Brand steht. Norna ist Zeugin. Wird sie Grimwald verraten? Wie groß ist Alens Furcht daruber, was Norna weiß und an Grimwald weitergegeben haben könnte?
+
+- Margo ist in Aufruhr. Kurz nach dem Mordanschlag betritt Godric den Palast. Trachtete er ihr erneut nach dem Leben?

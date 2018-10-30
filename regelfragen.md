@@ -5,3 +5,6 @@ Regelfragen:
 - Artha wird nicht zu der Anzahl geworfener Würfel in Bezug auf Advancement gezählt. Advantage hingegen schon.
 
 - Pro Belief gibt es entweder einen Fate oder einen Persona Artha. Nicht jedoch beides, auch wenn der Belief einen Action-Teil beinhaltet.
+
+https://rpg.stackexchange.com/questions/28059/does-injury-affect-the-helping-dice-i-grant-to-others
+https://rpg.stackexchange.com/questions/33804/how-do-character-traits-affect-play

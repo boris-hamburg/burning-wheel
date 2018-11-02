@@ -325,6 +325,34 @@ Spitznamen sollten sich auf Character-Traits beziehen.
 * Elspeth
 * Jacopus
 
+##### Familien
+* Battenberg
+* Beaufort
+* Beaumon
+* Conteville
+* Ferrers
+* Fitz-James
+* Giffard
+* Holland
+* Howard
+* Mandeville
+* Montgommery
+* Percy
+* Tosny
+* Villiers
+* Cavendish
+* Devonshire
+* Bakewell
+* Derbyshire
+
+##### Titel
+* Duke of Devonshire, Duke of Newcastle
+* Marquess of Hartington, Marquess of Newcastle-upon-Tyne
+* Earl of Burlington, Ealr of Devonshire, Earl of Ogle
+* Viscount Mansfield
+* Baron Cavendish of Bolsover, Baron Cavendish of Furness, Baron Cavendish of Hardwick, Baron Cavendish of Keighley
+
+
 #### Plots
 ##### Tribut
 Die Helden müssen bis zum Ende des Turniers den Tribut für den Drachen erbringen.

@@ -84,7 +84,7 @@ Warum ist Hephisto hinter Grimwald her? Weil Grimwald einen Teil Hephisto in sei
 
 ### Session 6
 
-- Wie geht es mit dem Turnier, nun, wo der Palast abgebrannt ist, weiter? Wird das Turnier abgesagt und der Tribut trotzdem erbracht? Wird der Tribut benötigt, um den Palast zu renovieren?
+- Wie geht es mit dem Turnier, nun, wo der Palast abgebrannt ist, weiter? Wird das Turnier abgesagt und der Tribut trotzdem erbracht? Wird der Tribut benötigt, um den Palast zu renovieren? Welche Aufgaben ergeben sich für die Protagonisten?
 
 - Was würde geschehen, wenn Margaret das Turnier absagt und den Tribut einfordert, um den Palast zu renovieren?
 
@@ -93,3 +93,7 @@ Warum ist Hephisto hinter Grimwald her? Weil Grimwald einen Teil Hephisto in sei
 - Margo ist in Aufruhr. Kurz nach dem Mordanschlag betritt Godric den Palast. Trachtete er ihr erneut nach dem Leben?
 
 - Am nächsten Morgen bringen die stillen Schwestern die zu Tode gekommenen Bewohner / Bediensteten des Palasts in ihren Tempel.
+
+- Wie reagieren die Gegenspieler?
+
+- Der befreite Jones ist ein Cymbri? Oder der Assassin einer anderen Familie?

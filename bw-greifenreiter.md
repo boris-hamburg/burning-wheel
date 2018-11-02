@@ -71,6 +71,7 @@ Dort wird der Tribut entrichtet und das Tributturnier findet statt.
 - Alter Turm, der durch den letzten Drachenangriff zerstört und nie wieder aufgebaut wurde. Ein Mahnmal. Steine sind durch die Hitze geschmolzen. Zu seinen Füssen ist die Tribüne des Königs errichtet worden.
 - Duellplatz / Platz der Rechtssprechung im Sinne der alten Wege. Steinkreis / Stonehedge. Kleiner Wald in der Nähe.
 - Greenwater. See vor den Toren Rimmersgards. Dort findet zu Zeiten des Turniers das "Blessing of the Sick" statt. In einer Ruine des letzten Vermitrax Angriffs findet sich im Wald, ein möglicher Zugang zu den Katakomben der stillen Schwestern.
+- Palast. Von einem Feuer teilweise zerstört. In dem Palast befindet sich die Star Chamber. Während des Tributturniers wohnen Adelige im Palast. Von dem Palast aus führt eine geheime Passage zu einem gut versteckten Anleger im See.
 
 ##### Die Stadt im Sumpf
 Inspiration: Game of Thrones, Grey Bastards  
@@ -87,7 +88,7 @@ Sumpf namens "Old Maiden".
 ##### Treibgut
 Inspiration: Drachenlanze
 
-Eine Stadt aus angeschwemmten Überresten von Schiffen.
+Eine Stadt aus angeschwemmten Überresten von Schiffen und anderem Treibgut.
 
 ##### Stormhold
 Heimat der Greifenreiter an einer Steilküste. Stürme toben an den Klippen.
@@ -100,6 +101,8 @@ Inspiration: Malmsturm
 
 Innerhalb eines Tales ragt ein schlanker Fels in die Höhe.
 Auf dessen Spitze wurde eine Stadt aus Holz errichtet.
+Einge Bauten ragen über den Rand hinaus. Von Zeit zu Zeit stürzen Barracken in den Abgrund. 
+Ein horizontales wie auch vertikales Labyrinth. Schmale Stege, Brücken - alles behelfsmäßig aus Holz zusammengezimmert. Der Wind pfeift durch die Gänge.
 
 ##### Mountain Village
 Inspiration: Assassins Apprentice
@@ -121,9 +124,15 @@ Die öffentlichen Gebäude bestehen zumeist aus Bäumen, deren
 Äste durch Seile und andere Befestigungen zu einem Dach
 verwoben wurden.  
 Innerhalb des Mountains Folks gibt es die Tuani Krieger.
+Sky Burials.
 
 ##### Kiln
 Inspiration: Grey Bastards
+
+Festung mit großen Kamin in der Mitte. Zu Verteidigungszwecken wird der Kamin angefeuert und die heißen Winde in einen schneckenförmigen Gang geleitet, welcher der einzige Zugang zum Kiln ist.
+
+##### Moletown
+Eine halb-unterirdisch, halb-oberirdische Ansammlung von Gebäuden. Ein Bergarbeiter-Dorf.
 
 ##### Nomadenvolk
 Inspiration: Mongolen?
@@ -139,7 +148,7 @@ Leben in den kargen Gebieten im Norden. Stammen von den deportierten Verbrechern
 Inspiration: Name des Windes
 Inspiration: Dark Albion
 
-Ehemals Ureinwohner. Wurden vertrieben. Nun fahrendes Volk. Heimatlos. Ziehen von Stadt zu Stadt. Verwässertes Fae-Blut.
+Ehemals Ureinwohner. Wurden vertrieben. Nun fahrendes Volk. Heimatlos. Ziehen von Stadt zu Stadt. Verwässertes Fae-Blut. Folgen den alten Wegen.
 
 ##### Flusslande
 Hinter den Bergen des Mountain-Folks. Nur durch deren Pässe zu erreichen. Ertragreiche Handelsbeziehungen möglich.
@@ -148,6 +157,7 @@ Hinter den Bergen des Mountain-Folks. Nur durch deren Pässe zu erreichen. Ertra
 Inspiration: Assassins Apprentice
 
 Gegenpol zu den Küstenlanden. Sehen nicht ein, Steuern etc. zum Schutz der Küsten zu zahlen.
+Hier werden die neuen Religionen wie Burr angebetet.
 
 ##### Die geschliffene Festung der Mountain Witch
 Inspiration: Mountain Witch
@@ -190,7 +200,7 @@ Greifenreiter. Wardens of the West. The Old Ways. Spirits of the Land.
 
 ##### Haus Oxham
 Ziemlich reich, diese Oxhams.   
-Beliefern die Greyfeathers mit Fleisch für ihre Greifen.
+Beliefern die Greywings mit Fleisch für ihre Greifen.
 Dickleibig.
 
 ##### Haus Stalwart
@@ -239,7 +249,7 @@ zu den Reichen der Orks bewachen. Sind natürlich nicht gut angesehen. Und stink
 Inspiration: Black Company
 
 Frauen bringen Kinder ins Leben, Frauen bringen Tote in Grab.
-Die stillen Schwestern dienen dem Gott Burr.
+Die stillen Schwestern dienen dem Gott Burr (Geburt und Tod)
 Bringen den Tribut inklusive eventuell vorhandenen Menschenopfer
 zu Vermitrax.
 Es ist Tradition, dass ein Teil des Besitz des Toten als Totengabe
@@ -278,13 +288,21 @@ Die Orks an den Grenzen. Nomaden?
 #### Religion
 
 ##### Burr
+Domänen: Geburt und Tod
 
-##### Spirits of the Land
+Vertreten durch die stillen Schwestern.
+In den Innenlanden vom Adel verehrt, während das Gesinde den alten Wegen folgte. Nach und nach drückte der Adel dem Gesinde ihren Glauben auf.
+
+##### Die alten Wege / Spirits of the Land aks 
 Inspiration: Dark Albion
+Dömanen: Erde, Wasser, Feuer, Wind
 
 Die alten Götter. Spirits of the Land. Als heidnisch abgetan. Wenn in Angland verehrt, dann nur heimlich. In den Randbezirken Semi-Öffentlich. Repräsentiert durch Druiden.
 
 #### Namen
+##### Spitznamen
+Spitznamen sollten sich auf Character-Traits beziehen.
+
 ##### Orte etc
 * Urland
 * Oerth
@@ -315,4 +333,4 @@ Die Helden müssen bis zum Ende des Turniers den Tribut für den Drachen erbring
 Die Helden müssen hinter das Geheimnis der sterbenden Greifen kommen und das Aussterben der Greifen verhindern.
 
 ##### Vater - verschollen!
-Die Helden müssen herausfinden, welches Schicksal ihren Vater ereilte, der sich zum Mountain Folk begab, um dort über die Öffnung der Gebirgspässe zu verhandeln, die die überlebendsnotwendigen Handelsrouten in die Hinterländer ermöglichen.
+Die Helden müssen herausfinden, welches Schicksal ihren Vater ereilte, der sich zum Mountain Folk begab, um dort über die Öffnung der Gebirgspässe zu verhandeln, die die überlebensnotwendigen Handelsrouten in die Flusslande ermöglichen.

@@ -91,3 +91,5 @@ Warum ist Hephisto hinter Grimwald her? Weil Grimwald einen Teil Hephisto in sei
 - Alen Foxington weiß, dass Grimwald hinter dem Brand steht. Norna ist Zeugin. Wird sie Grimwald verraten? Wie groß ist Alens Furcht daruber, was Norna weiß und an Grimwald weitergegeben haben könnte?
 
 - Margo ist in Aufruhr. Kurz nach dem Mordanschlag betritt Godric den Palast. Trachtete er ihr erneut nach dem Leben?
+
+- Am nächsten Morgen bringen die stillen Schwestern die zu Tode gekommenen Bewohner / Bediensteten des Palasts in ihren Tempel.

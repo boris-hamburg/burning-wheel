@@ -88,12 +88,26 @@ Warum ist Hephisto hinter Grimwald her? Weil Grimwald einen Teil Hephisto in sei
 
 - Was würde geschehen, wenn Margaret das Turnier absagt und den Tribut einfordert, um den Palast zu renovieren?
 
-- Alen Foxington weiß, dass Grimwald hinter dem Brand steht. Norna ist Zeugin. Wird sie Grimwald verraten? Wie groß ist Alens Furcht daruber, was Norna weiß und an Grimwald weitergegeben haben könnte?
+- Alen Foxington weiß, dass Grimwald hinter dem Brand steht. Norna ist Zeugin. Wird sie Grimwald verraten? Wie groß ist Alens Furcht darüber, was Norna weiß und an Grimwald weitergegeben haben könnte? Foxington wird durch Norna dafür sorgen, dass Grimwald zu ihm kommt. Am besten in seiner eigenen Festung. Eine hervorragende Falle.
 
 - Margo ist in Aufruhr. Kurz nach dem Mordanschlag betritt Godric den Palast. Trachtete er ihr erneut nach dem Leben?
 
 - Am nächsten Morgen bringen die stillen Schwestern die zu Tode gekommenen Bewohner / Bediensteten des Palasts in ihren Tempel.
 
-- Wie reagieren die Gegenspieler?
+- Wie reagieren die Gegenspieler? Auf Foxington konzentrieren.
 
 - Der befreite Jones ist ein Cymbri? Oder der Assassin einer anderen Familie?
+
+- Das Turnier wird abgesagt. Der König und die Königin ziehen um. Das Erbringen des Tributs wird verschoben, jedoch nicht aufgehoben. Die Festung der Foxingtons ist in der Nähe. 
+
+- Wer wird in der Festung der Foxingtons sein:
+    - Rashimi als Godrics Antagonist: Verbündeter von Alex Foxington
+    - Ulrik von Craggenmoor: Wird Godric folgen, um sich seinen Platz zurückzuholen.
+    - Hauptmann: Wenn Falcot im Heer mitreitet, wird er nicht nur seine Kameraden, sondern auch den Arschloch-Hauptmann wiedertreffen. Foreshading auf die Yamina Situation.
+    - Chade
+    - Gillian: Spioniert für die Oxhams und wird dies als ihr Champion auch im Fuchsbau tun.
+    - Stalwart Mündel
+    - Margo
+    - Stille Schwestern, die Vermithrax den Tribut überbringen sollen. Unter ihnen Baba Yog.
+    - Errold: Godrics Champion.
+    - Cymbri

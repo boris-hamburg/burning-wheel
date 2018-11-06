@@ -314,6 +314,12 @@ Spitznamen sollten sich auf Character-Traits beziehen.
 * Middarmark
 * Flusslande jenseits der Heimat des Mountain Folks
 * Tuani
+* Bearns
+* Buck
+* Tilth
+* Farrow
+* Rippon
+* Shoaks
 
 ##### Personen
 * Casiodorus

@@ -1,22 +1,21 @@
 ## Das Lied bisher
 Haus Greywing steht am Abgrund.
 
-> Wardens of the West. Der Titel bringt neben Ruhm und Ehre auch Verantwortung, Verpflichtungen. So patrolliert Haus Greywing Anglands Küste, von Greifen getragen, wirft sich Feinden entgegen und zahlt den Preis in Blut, der Sicherheit der Heimat verschrieben. Doch die Greife sterben, von einer Seuche dahingerafft.
+Wardens of the West. Neben Ruhm und Ehre birgt der Titel auch Verantwortung, Verpflichtungen. Auf den Rücken ihrer mächtigen Greifen sichert Haus Greywing Anglands Küste. Der Sicherheit der Heimat verschrieben bezahlen sie den Preis dafür in Blut.
 
-> Dem Schutz Anglands verpflichtet, patrollieren die Greywings die Küste, von Greifen getragen allen Feinden entgegen werfend.. Doch die Greifen sterben, von einer Seuche dahingerafft.
+Doch die Greife sterben, von einer Seuche dahingerafft.
 
-Greife, furchteinflössend, zeugen von Stärke - ihre Kadaver hingegen nicht. Respekt schwindet, Begehrlichkeiten werden geweckt.
-> Zeugen furchteinflössende Greife von Stärke, sind ihre Kadaver ein Zeichen der Schwäche. Respekt schwindet, Begehrlichkeiten werden geweckt.
+Greife, furchteinflössend, zeugen von Stärke - ihre Kadaver hingegen nicht. Schwäche lässt Respekt schwinden, Begehrlichkeiten werden geweckt.
 
 Heilungsversuche sind vielfältig, kostspielig ... und erfolglos.
 
-Der Reichtum der Flusslande verspricht Rettung. Schroff und unwegsam türmt sich das Reich des Mountain Folks auf, Passage versperrend. Galen Greywing bricht auf, hoffnungsvoll. Blutsbande sollen Wegerecht garantieren, Verhandlungen Handelsrouten öffnen.
+Der Reichtum der Flusslande verspricht Rettung. Schroff und unwegsam türmt sich das Reich des Mountain Folks auf, Passage versperrend. Galen Greywing bricht auf, hoffnungsvoll, sollen doch Blutsbande Wegerecht garantieren und Verhandlungen Handelsrouten öffnen.
 
-Fernab erwacht Vermithrax, Drache und Geißel Anglands, Tribut in Münze oder Blut fordernd - doch die Kassen der Greywings sind leer...
+Fernab erwacht der Drache Vermithrax. Die Geißel Anglands fordert Tribut in Münze oder Blut - doch die Kassen der Greywings sind leer...
 
 ## Die Helden
 ### Yamina
-50% Greywing, 50% Tuani, 100% Bastard.   
+50% Greywing, 50% Tuani, 100% Bastard.
 Auf Geheiß ihres Vaters, Galen, im Assassinen Handwerk ausgebildet, verfeinerte Yamina ihre Fähigkeiten während sie beim fahrenden Volk, den Cymbri, lebte.
 
 ### Godric
@@ -24,40 +23,31 @@ _The_ Wizard of the West
 Lebte als Mündel bei den Stalwarts und lernte dort Magie.
 
 ### Falcot
+Kleiner Mann, großes Herz
 Zu klein, um ein Greifenreiter zu werden, macht sich Falcot nach drei Jahren im Dienst der königlichen Armee auf, mit seinem Pony Willow die Familie zu retten.
 
 ## Die Strophe
-Das Tributturnier zu Rimmersgard steht an.
+Nach Jahren der Trennung führt das Tributturnier Godric, Falcot und Yamina in Rimmersgard zusammen. Die Wiedersehensfreude währt nur kurz. Margo Greywing offenbart, dass die Familie den Tribut an Vermithrax nicht leisten kann.
 
->Das Tributturner in Rimmersgard führt Yamina, Godric und Falcot zusammen. Über Jahre getrennt eigenen Wegen folgend, währt die Wiedersehensfreude nur kurz. Margo Greywing offenbart, den Tribut an Vermitrax nicht leisten zu können.
+Führunglos, da ihr Vater Galen verschollen ist, liegt es an den drei Geschwistern, Haus Greywing vor dem Untergang zu bewahren. Ein wagemutiger Plan wird ersonnen. Das Turnier muss gewonnen, das Preisgeld Vermithrax geopfert werden.
 
-Yamina, Godric und Falcot treffen ihre Mutter, Margo, die ihnen offenbart, dass die Greywings der Verpflichtung ihren Teil des Tributs an den Drachen Vermitrax zu entrichten, nicht nachkommen können. Wird die leere Truhe in ihrer Mitte nicht bis zum Ende des Turniers gefüllt, drohen drakonische Strafen: Haus Greywing wird zerschlagen, enteignet, vernichtet ... und Vermitrax Familienblut geopfert.
+Doch wer tritt an? Der Champion der Greywings, Gilliam, schloss sich den Oxhams an, so dass Falcot genötigt wird, anzutreten. Eine Rüstung wird gesucht, doch lediglich eine Zermonienrüstung gefunden.
 
->Drei vaterlose Geschwister ersinnen einen Plan, wagemutig. Das Turnier muss gewonnen werden, das Preisgeld als Tribut herhalten müssen.
+Die Turnieranmeldung erweist sich als schwierig. Die Meldelist, teilt Jonathan Stalwart mit, sei bereits voll, die Teilnehmer gesetzt. Höchstens als Nachrücker könne Falcot gemeldet werden.
 
->An drei vaterlosen Geschwistern liegt es, das Haus zu retten. Ein Plan wird ersonnen, wagemutig. Das Turnier muss gewonnen, das Preisgeld Vermitrax geopfert werden.
+Yamina, umtriebig, erfährt vom Taschendieb Will, dass ein neuer Star Chamber Siegelring geschmiedet wurde, der das Wappen der Foxingtons trägt.
 
-> Drei vaterlose Geschwister ersinnen einen Plan, wagemutig. Das Turnier muss gewonnen, Vermitrax das Preisgeld geopfert werden.
+Mit dieser Neuigkeit zurückgekehrt, beschliessen Godric und Yamina gegen Falcots Willen, den Heckenritter Errold Buckington auszuschalten, um eine Teilnahme am Turnier zu ermöglichen. 
 
-> Drei vaterlose Geschwister ersinnen einen Plan, wagemutig. Das Turnier muss gewonnen, Vermitrax mit dem Preisgeld besänftigt werden.
+Daraufhin verlässt Falcot seine Geschwister und trifft auf seinen alten Widersacher aus Armeezeiten, Phil Pholic.
 
-Führungslos, da ihr Vater verschollen ist, ersinnen die drei Geschwister den wagemutigen Plan, das Turnier zu gewinnen, in der Hoffnung, dass das ausgelobte Preisgeld ausreicht, den Tribut zu erbringen.
-
-
-
-Der designierte Champion der Greywings, Gilliam, schloss sich den Oxhams an, so dass Falcot genötigt wird, anzutreten. Eine Rüstung wird gesucht, doch lediglich eine Zermonienrüstung gefunden. Des Weiteren gestaltet sich die Turniermeldung als schwierig. Jonathan Stalwort of Gont teilt mit, dass die Meldeliste bereits voll sei und Falcot höchstens als Nachrücker gemeldet werden könne.
-
-In der Zwischenzeit erfährt Yamina vom Taschendieb Will, dass ein neuer Star Chamber Siegelring geschmiedet wurde, welcher das Siegel der Foxingtons trägt.
-
-Als Yamina zu Godric und Falcot zurückkehrt, entbrennt eine Diskussion, welcher Turnierteilnehmer ausgeschaltet wird, um Platz für Falcot zu machen. Dieser will mit diesem Vorgehen offensichtlich nichts zu tun haben und verlässt seine Geschwister mit Ziel Schmied.
-
-Die Wahl Godrics fällt auf den Heckenritter Erold Buckington. Als Godric ihn zu sich rufen lässt, ist Erolds Hoffnung groß, dass er für die Greywings am Turnier teilnehmen soll. Da dem nicht so ist, bietet Godric an, die Laune Erolds mit einem Becher Wein zu heben, den ihm - als Schankmaid verkleidet und mit einem Abführmittel versüsst - Yamina reicht.
+Als Godric Errold zu sich rufen lässt, ist die Hoffnung des mittellosen Heckenritters groß, unter dem Banner der Greywings reiten zu dürfen. Da dem nicht so ist, bietet Godric an, die Laune Erolds mit einem Becher Wein zu heben, den ihm - als Schankmaid verkleidet und mit einem Abführmittel versüsst - Yamina reicht.
 
 Greif ersetzt Hirsch, als Falcots Schild zwischen denen der anderen Turnierteilnehmer eingereiht wird.
 
 ## Orte
 ### Rimmersgard
-Der Turnierplatz liegt außerhalb Rimmersgards im Schatten des alten Turms, einem Mahnmal des letzten Angriffs Vermitraxs. Geschmolzene Steine zeugen von der Urgewalt des Drachens.
+Im Schatten des alten Turms, dessen geschmolzene Steine von der Urgewalt Vermithrax letzten Angriffes zeugen, liegt der Turnierplatz außerhalb Rimmersgards.
 
 ## Personen
 ### Galen Greywing of Angland
@@ -82,13 +72,13 @@ Eine feste Größe in der Rimmersgarder Taschendiebszene.
 Heckenritter. Mit großen Hoffnungen zum Turnier angereist. Macht nach einem Gläschen Wein mit Godric nun Platz für einen Nachrücker.
 
 ### Phil Pholic of Angland
-Falcots Rivale.
+Falcots Rivale aus Armeezeiten.
 
 ## Plots
 
 ### Erbringt den Tribut
 Vermitrax' Tribut muss bis zum Ende des Turniers erbracht werden.
-Gelingt dies nicht, wird Haus Greywing zerschlange, der Besitz unter den anderen Häusern verteilt, der Sitz in der Star Chamber verschachert und ein Familienmitglied Vermitrax geopfert.
+Gelingt dies nicht, wird Haus Greywing zerschlagen, der Besitz unter den anderen Häusern verteilt, der Sitz in der Star Chamber verschachert und ein Familienmitglied Vermitrax geopfert.
 
 ### Findet Galen
 Was geschah mit Galen während seiner Expedition in das Reich des Mountain Folks?

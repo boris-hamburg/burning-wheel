@@ -1,268 +1,154 @@
-<!-- HTML -->
-<head>
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
-	
-	<link href='http://fonts.googleapis.com/css?family=Lato:100,300' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=UnifrakturCook:700' rel='stylesheet' type='text/css'>
-	<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
-	<style>
-	html {
-		background: -webkit-radial-gradient(
-			center top,
-			circle,
-			#615B53,
-			#222222);
-		background: radial-gradient(
-			circle at center top,
-			#615B53,
-			#222222);
-		background-attachment: fixed;
-		color: #E1EDED;
-		font-family: 'Lato', sans-serif;
-		height:100%;
-		margin: auto;
-		max-width: 46rem;
-	}
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Burning Wheel Greifenreiter : Session 01</title>
+		<link href="https://cdn.jsdelivr.net/npm/tailwindcss/dist/tailwind.min.css" rel="stylesheet">
+		<link href='http://fonts.googleapis.com/css?family=Lato:100,300' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=UnifrakturCook:700' rel='stylesheet' type='text/css'>
+		<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+		<style>
+			.background-dark {
+				background: -webkit-radial-gradient(
+					center top,
+					circle,
+					#615B53,
+					#222222);
+				background: radial-gradient(
+					circle at center top,
+					#615B53,
+					#222222);
+				background-attachment: fixed;
+			}
+			.text-copper {
+				color: #D68513;
+			}
+			.text-egg {
+				color: #E1EDED;
+			}
+			.text-default {
+				font-size: 15px;
+			}
+			.text-6xl {
+				font-size: 5.5rem;
+			}
+			.tracking-wider {
+				letter-spacing: 2px;
+			}
+			.tracking-widest {
+				letter-spacing: 10px;
+			}
+			.leading-default {
+				line-height: 24px;
+			}
+			.lato {
+				font-family: 'Lato', sans-serif;
+			}
+			.raleway {
+				font-family: 'Raleway', sans-serif;
+			}
+			.unifraktur {
+				font-family: 'UnifrakturCook', cursive;
+			}
+			.drop {
+				text-shadow: 1px 1px #efefef, -1px -2px #2f2f2f;	
+				float: left;
+				line-height: 54px;
+				padding-top: 4px;
+				padding-right: 8px;
+				padding-left: 3px;
+			}
+			#wrap {
+				margin: 66px auto 50px;
+				width: 100px;
+				height: 100px;
+				transform:rotate(-135deg);
+				box-sizing: initial;
+			}
+			#A {
+				position: absolute;
+				display:block;
+				background: transparent;
+				width:110px;
+				height:110px;
+				border-radius:20px 30000px 20000px ;	
+				box-shadow:-20px -20px 30px rgba(0,0,0,.3);	
+			}	
+			#A:before {
+				content:'';
+				position: absolute;
+				display: block;
+				width: 101px;
+				height: 95px;
+				margin: 25px;
+				background: #ebebeb;
+				-moz-border-radius: 100px 0 50px 0;
+				-webkit-border-radius: 100px / 50px;
+				border-radius: 100px / 50px;
+				border-top: solid 5px #746D7A;
+				transform:rotate(135deg);
+			}
+			#A:after {
+				content:'';
+				display:block;
+				background: #ebebeb;
+				margin-left: .5px;
+				margin-top: .5px;
+				width:109.5px;
+				height:109.5px;
+				border-radius:20px 30000px 20000px ;	
+			}
+			#logo-a {
+				position: absolute;
+				display: block;
+				text-transform: uppercase;
+				transform: rotate(135deg);
+				margin: 16px 0px 0px 40px;
+				text-align: center;
+				font-size: 5em;
+				font-family: 'UnifrakturCook', cursive;
+				color: #4f4f4f;
+				text-shadow: 1px 1px #efefef, -1px -2px #2f2f2f;	
+			}			
+</style>
+	</head>
+	<body class="background-dark">
+		<div class="h-full max-w-md container mx-auto">
+			<article class="p-8">
+				<header>
+					<h1 class="font-bold text-copper uppercase tracking-wide lato text-lg text-center">Burning Wheel <span class="text-egg font-normal">Greifenreiter</span></h1>
+					<div id="wrap">
+						<a href="#"><div id="A"><div id="logo-a">g</div></div></a>
+					</div>
+				</header>
+				<section>
+					<h2 class="lato text-egg tracking-widest uppercase mt-8 mb-8 text-center text-4xl">Das Lied bisher</h2>
+					<p class="mt-4 raleway text-egg tracking-wider font-normal leading-normal text-default"><span class="drop text-copper unifraktur text-6xl">W</span>ardens of the West. Der Titel birgt neben Ruhm und Ehre auch Verantwortung, Verpflichtungen. 
+					Auf den Rücken ihrer mächtigen Greifen patrolliert Haus Greywing Anglands Küste. Der Sicherheit der Heimat
+					verschrieben bezahlen sie den Preis dafür in Blut.</p>
+					<p class="mt-4 raleway text-egg tracking-wider font-normal leading-normal text-default">Doch die Greife sterben, von einer Seuche dahingerafft.</p>
+					<p class="mt-4 raleway text-egg tracking-wider font-normal leading-normal text-default">Greife, furchteinflössend, zeugen von Stärke - ihre Kadaver hingegen nicht. Respekt schwindet, Begehrlichkeiten werden geweckt.</p>
+					<p class="mt-4 raleway text-egg tracking-wider font-normal leading-normal text-default">Heilungsversuche sind vielfältig, kostspielig ... und erfolglos.</p>
+					<p class="mt-4 raleway text-egg tracking-wider font-normal leading-normal text-default">Der Reichtum der Flusslande verspricht Rettung. Schroff und unwegsam türmt sich das Reich des Mountain Folks auf, Passage versperrend. Galen Greywing bricht auf, hoffnungsvoll. Blutsbande sollen Wegerecht garantieren, Verhandlungen Handelsrouten öffnen.</p>
+					<p class="mt-4 raleway text-egg tracking-wider font-normal leading-normal text-default">Fernab erwacht der Drache Vermithrax. Die Geißel Anglands fordert Tribut in Münze oder Blut - doch die Kassen er Greywings sind leer...</p>					
+				</section>
+				<section>
+					<h2 class="lato text-egg tracking-widest uppercase mt-8 mb-8 text-center text-4xl">Die Strophe</h2>
+					<p class="mt-4 raleway text-egg tracking-wider font-normal leading-normal text-default"><span class="drop text-copper unifraktur text-6xl">N</span>ach Jahren der Trennung führt das Tributturnier Godric, Falcot und Yamina in Rimmersgard zusammen. Die Wiedersehensfreude währt nur kurz. Margo Greywing offenbart, dass die Familie den Tribut an Vermithrax nicht leisten kann.</p>
+					<p class="mt-4 raleway text-egg tracking-wider font-normal leading-normal text-default">Führungslos, da ihr Vater Galen verschollen ist, liegt es an den drei Geschwistern, Haus Greywing vor dem Untergang zu bewahren. Ein wagemutiger Plan wird ersonnen. Das Turnier muss gewonnen, das Preisgeld Vermithrax geopfert werden.</p>
+					<p class="mt-4 raleway text-egg tracking-wider font-normal leading-normal text-default">Doch wer tritt an? Der Champion der Greywings, Gilliam, schloss sich den Oxhams an, so dass Falcot genötigt wird, anzutreten. Eine Rüstung wird gesucht, doch lediglich eine Zermonienrüstung gefunden.</p>
+					<p class="mt-4 raleway text-egg tracking-wider font-normal leading-normal text-default">Die Turnieranmeldung erweist sich als schwierig. Die Meldelist, teilt Jonathan Stalwart mit, sei bereits voll, die Teilnehmer gesetzt. Höchstens als Nachrücker könne Falcot gemeldet werden.</p>
+					<p class="mt-4 raleway text-egg tracking-wider font-normal leading-normal text-default">Yamina, umtriebig, erfährt vom Taschendieb Wicked Will, dass ein neuer Star Chamber Siegelring geschmiedet wurde, der das Wappen der Foxingtons trägt.</p>
+					<p class="mt-4 raleway text-egg tracking-wider font-normal leading-normal text-default">Mit dieser Neuigkeit zurückgekehrt, beschliessen Godric und Yamina gegen Falcots Willen, den Heckenritter Errold Buckington auszuschalten, um eine Turnierteilnahme zu ermöglichen.</p>
+					<p class="mt-4 raleway text-egg tracking-wider font-normal leading-normal text-default">Daraufhin verlässt Falcot seine Geschwister und trifft auf seinen alten Widersacher aus Armeezeiten, Phil Pholic, der ihn ob seines Ponies, Willow, verspottet.</p>
+					<p class="mt-4 raleway text-egg tracking-wider font-normal leading-normal text-default">Als Godric Errold zu sich rufen lässt, ist die Hoffnung des mittellosen Heckenritters groß, unter dem Banner der Greywings reiten zu dürfen. Da dem nicht so ist, bietet Godric an, die Laune Errolds mit einem Becher Wein zu heben, den ihm - als Schankmaid verkleidet und mit einem Abführmittel versüsst - Yamina reicht.</p>
+					<p class="mt-4 raleway text-egg tracking-wider font-normal leading-normal text-default">Greif ersetzt Hirsch, als Falcots Schild zwischen denen der anderen Turnierteilnehmer eingereiht wird.</p>
+				</section>
+			</article>
+		</div>
+	</body>
+</html>
 
-#text {
-	display: block;
-	margin: 80px auto;
-	text-align: center;
-	font-size: 1.5em;
-	letter-spacing: 10px;
-	text-transform: uppercase;
-}
 
-#text b {
-	color: #D68513;
-}
-
-#wrap {
-	margin: 0px auto;
-	width: 100px;
-	height: 100px;
-	transform:rotate(-135deg);
-}
-
-#A {
-	position: absolute;
-	display:block;
-	background: transparent;
-	width:110px;
-	height:110px;
-	border-radius:20px 30000px 20000px ;	
-	box-shadow:-20px -20px 30px rgba(0,0,0,.3);	
-}
-
-#A:before {
-	content:'';
-	position: absolute;
-	display: block;
-	width: 101px;
- 	height: 95px;
-	margin: 25px;
- 	background: #ebebeb;
- 	-moz-border-radius: 100px 0 50px 0;
- 	-webkit-border-radius: 100px / 50px;
- 	border-radius: 100px / 50px;
-	border-top: solid 5px #746D7A;
-	transform:rotate(135deg);
-}
-
-#A:after {
-	content:'';
-	display:block;
-	background: #ebebeb;
-	margin-left: .5px;
-	margin-top: .5px;
-	width:109.5px;
-	height:109.5px;
-	border-radius:20px 30000px 20000px ;	
-}
-
-#logo-a {
-	position: absolute;
-	display: block;
-	text-transform: uppercase;
-	transform: rotate(135deg);
-	margin: 16px 0px 0px 40px;
-	text-align: center;
-	font-size: 5em;
-	font-family: 'UnifrakturCook', cursive;
-	color: #4f4f4f;
-	text-shadow: 1px 1px #efefef, -1px -2px #2f2f2f;	
-}
-.center {
-    margin: auto;
-}
-#content {
-	display: block;
-	margin: 80px auto;
-	text-align: left;
-	letter-spacing: 10px;
-	text-transform: uppercase;
-}
-#content h1 {
-	font-size: 54px;
-	text-align: center;
-	margin: 40px 0;
-}
-#content p {
-	font-family: 'Raleway', sans-serif;
-	font-weight: 400;
-	font-style: normal;
-	font-size: 15px;
-	font-stretch: 100%;
-	letter-spacing: 2px;
-	line-height: 24px;
-	margin: 24px 0;
-	text-size-adjust: 100%;
-	text-transform: none;
-	vertical-align: baseline;
-}
-.firstcharacter {
-	color: #D68513;
-	text-shadow: 1px 1px #efefef, -1px -2px #2f2f2f;	
-	float: left;
-	font-family: 'UnifrakturCook', cursive;
-	font-size: 93px;
-	line-height: 60px;
-	padding-top: 4px;
-	padding-right: 8px;
-	padding-left: 3px;
-}
-/* 
-  ##Device = Desktops
-  ##Screen = 1281px to higher resolution desktops
-*/
-
-@media (min-width: 1281px) {
-	#content h1 {
-		font-size: 54px;
-		margin: 40px 0;
-	}
-	#content p {
-		font-size: 15px;
-	}  
-}
-
-/* 
-  ##Device = Laptops, Desktops
-  ##Screen = B/w 1025px to 1280px
-*/
-
-@media (min-width: 1025px) and (max-width: 1280px) {
-  
-  #content h1 {
-		font-size: 54px;
-		margin: 40px 0;
-	}
-	#content p {
-		font-size: 15px;
-	}  
-  
-}
-
-/* 
-  ##Device = Tablets, Ipads (portrait)
-  ##Screen = B/w 768px to 1024px
-*/
-
-@media (min-width: 768px) and (max-width: 1024px) {
-  
-   #content h1 {
-		font-size: 54px;
-		margin: 40px 0;
-	}
-	#content p {
-		font-size: 24px;
-		line-height: 38px;
-	} 
-
-	.firstcharacter	{
-		font-size: 93px;
-	}
-  
-}
-
-/* 
-  ##Device = Tablets, Ipads (landscape)
-  ##Screen = B/w 768px to 1024px
-*/
-
-@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
-  
-    #content h1 {
-		font-size: 54px;
-		margin: 40px 0;
-	}
-	#content p {
-		font-size: 18px;
-		line-height: 29px; 
-	}  
-  
-}
-
-/* 
-  ##Device = Low Resolution Tablets, Mobiles (Landscape)
-  ##Screen = B/w 481px to 767px
-*/
-
-@media (min-width: 481px) and (max-width: 767px) {
-  
-    #content h1 {
-		font-size: 54px;
-		margin: 40px 0;
-	}
-	#content p {
-		font-size: 15px;
-	}  
-  
-}
-
-/* 
-  ##Device = Most of the Smartphones Mobiles (Portrait)
-  ##Screen = B/w 320px to 479px
-*/
-
-@media (min-width: 320px) and (max-width: 480px) {
-  
-    #content h1 {
-		font-size: 54px;
-		margin: 40px 0;
-	}
-	#content p {
-		font-size: 15px;
-	} 
-
-}
-	</style>
-</head>
-
-<body>
-	<div id="text"><b>Burning Wheel</b> <span>Greifenreiter</span></div>
-	<div id="wrap">
-		<a href="#"><div id="A"><div id="logo-a">g</div></div></a>
-	</div>
-	<div id="content" class="center">
-		<h1>Das Lied bisher</h1>
-		<p><span class="firstcharacter">W</span>ardens of the West. Der Titel birgt neben Ruhm und Ehre auch Verantwortung, Verpflichtungen. Auf den Rücken ihrer mächtigen Greifen patrolliert Haus Greywing Anglands Küste. Der Sicherheit der Heimat verschrieben bezahlen sie den Preis dafür in Blut.</p>
-		<p>Doch die Greife sterben, von einer Seuche dahingerafft.</p>
-		<p>Greife, furchteinflössend, zeugen von Stärke - ihre Kadaver hingegen nicht. Respekt schwindet, Begehrlichkeiten werden geweckt.</p> 
-		<p>Heilungsversuche sind vielfältig, kostspielig ... und erfolglos.</p>
-		<p>Der Reichtum der Flusslande verspricht Rettung. Schroff und unwegsam türmt sich das Reich des Mountain Folks auf, Passage versperrend. Galen Greywing bricht auf, hoffnungsvoll. Blutsbande sollen Wegerecht garantieren, Verhandlungen Handelsrouten öffnen.</p>
-		<p>Fernab erwacht der Drache Vermithrax. Die Geißel Anglands fordert Tribut in Münze oder Blut - doch die Kassen er Greywings sind leer...</p>
-		<!--<h1>Die Helden</p>
-		<h3>Yamina</h3>
-		<p class="punchline">50% Greywing, 50% Tuani, 100% Bastard.</p>
-		<p>Auf Geheiß ihres Vaters, Galen, im Assassinen Handwerk ausgebildet, verfeinerte Yamina ihre Fähigkeiten während sie beim fahrenden Volk, den Cymbri, lebte.</p>
-		<h3>Godric</h3>
-		<p class="punchline">_The_ Wizard of the West</p>
-		<p>Lebte als Mündel bei den Stalwarts und lernte dort Magie.</p>
-		<h3>Falcot</h3>
-		<p class="punchline">Kleiner Mann, großes Herz</p>
-		<p>Zu klein, um ein Greifenreiter zu werden, macht sich Falcot nach drei Jahren im Dienst der königlichen Armee auf, mit seinem Pony Willow die Familie zu retten.</p> -->
-		<h1 class="h1-fluid">Die Strophe</h1>
-		<p><span class="firstcharacter">D</span>as Tributturnier in Rimmersgard führt Yamina, Godric und Falcot zusammen. Über Jahre getrennt eigenen Wegen folgend, währt die Wiedersehensfreude nur kurz. Margo Greywing offenbart, den Tribut an Vermitrax nicht leisten zu können.</p>
-	</div>
-</body>

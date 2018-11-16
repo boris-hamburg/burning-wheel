@@ -52,6 +52,7 @@
 - "Wir sind ein Team, eine Familie! Niemand muss alleine sterben!". Ein freundlicher Klaps. "Viel Glück, Junge. Wir sehen uns draußen."
 - Gefährlich. Nicht beleidigen. Kopf runter. Unsichtbar werden. "Was wollt ihr Arschlöcher?!?"
 - Henker. Nach friedlicher Revolution und der Abschaffung der Todesstrafe arbeitslos. Furcht vor Repressalien. 
+- "Wie gehts den Gefangenen?" - "Sind Tod." - "Was?!?" - "Beruhigt Euch, war nur ein Scherz." Gehen in den Keller. Gefangene sind tod. "Ich war's nicht, ehrlich!"
 
 
 # Urban Fantasy

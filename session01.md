@@ -1,6 +1,4 @@
 ## Das Lied bisher
-Haus Greywing steht am Abgrund.
-
 Wardens of the West. Neben Ruhm und Ehre birgt der Titel auch Verantwortung, Verpflichtungen. Auf den Rücken ihrer mächtigen Greifen sichert Haus Greywing Anglands Küste. Der Sicherheit der Heimat verschrieben bezahlen sie den Preis dafür in Blut.
 
 Doch die Greife sterben, von einer Seuche dahingerafft.
@@ -41,7 +39,7 @@ Mit dieser Neuigkeit zurückgekehrt, beschliessen Godric und Yamina gegen Falcot
 
 Daraufhin verlässt Falcot seine Geschwister und trifft auf seinen alten Widersacher aus Armeezeiten, Phil Pholic.
 
-Als Godric Errold zu sich rufen lässt, ist die Hoffnung des mittellosen Heckenritters groß, unter dem Banner der Greywings reiten zu dürfen. Da dem nicht so ist, bietet Godric an, die Laune Erolds mit einem Becher Wein zu heben, den ihm - als Schankmaid verkleidet und mit einem Abführmittel versüsst - Yamina reicht.
+Als Godric Errold zu sich rufen lässt, ist die Hoffnung des mittellosen Heckenritters groß, unter dem Banner der Greywings reiten zu dürfen. Da dem nicht so ist, bietet Godric an, die Laune Errolds mit einem Becher Wein zu heben, den ihm - als Schankmaid verkleidet und mit einem Abführmittel versüsst - Yamina reicht.
 
 Greif ersetzt Hirsch, als Falcots Schild zwischen denen der anderen Turnierteilnehmer eingereiht wird.
 

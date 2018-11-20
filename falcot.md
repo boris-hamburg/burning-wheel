@@ -18,3 +18,11 @@ B2:
 B3: Family first. Make Greywings great again
 
 ### Instincts
+
+### Antagonisten
+- Phil Pholic
+- Hauptmann
+- (Errold)
+
+### Konflikte
+Die alten Wege: Ehre gegen Unehre. Gehorsam gegen Ungehorsam. Disziplin gegen Undiszipliniertheit.

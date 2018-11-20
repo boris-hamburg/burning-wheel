@@ -16,3 +16,7 @@ B2: Keine Anschläge auf Falcot
 B3: Revenge is best served cold; Alen Foxington must die
 
 ### Instincts
+
+### Antagonisten
+
+### Konflikte

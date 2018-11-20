@@ -29,3 +29,10 @@ Mit übertriebenen Selbstbewusstsein Selbstzweifel überspielen.
 ### Beliefs
 
 ### Instincts
+
+### Antagonisten
+- Margo (Führung der Familie)
+- Ulrik
+- Rashimi
+
+### Konflikte

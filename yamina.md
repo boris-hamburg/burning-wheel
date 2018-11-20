@@ -35,3 +35,7 @@ B3:
 I1: Protect the Innocent
 I2: Niemals unbewaffnet
 I3: Immer Zutaten dabei
+
+### Antagonisten
+
+### Konflikte

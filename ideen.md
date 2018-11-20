@@ -111,3 +111,25 @@ Warum ist Hephisto hinter Grimwald her? Weil Grimwald einen Teil Hephisto in sei
     - Stille Schwestern, die Vermithrax den Tribut überbringen sollen. Unter ihnen Baba Yog.
     - Errold: Godrics Champion.
     - Cymbri
+
+- Alen Foxington will die Spaltung der Greywings vorantreiben. Er arrangiert, dass sowohl Margo als auch Godric in die Star Chamber gerufen werden. Margo ist sicherlich verstört, ihren Sohn in der Star Chamber zu treffen, schließlich trachtete er ihr erst vor kurzem nach dem Leben und wurde auch in der Nacht des Brandes im Palast gesehen.
+
+- Konflikt: Godric war in der Feuernacht im Palast. Margo vermutet einen erneuten Anschlag.
+- Konflikt: Wer darf die Familie in der Star Chamber vertreten? Margo oder Godric?
+- Margaret wirft Godric vor, nicht bei der Räumung des Palastes, dem Löschen des Brandes unterstützt zu haben. Um nach Margo zu suchen? Rashimi hingegen hat heldenhaft geholfen und wird von Margaret zum Hofmagier ernannt.
+- Konflikt: Berichte über Angriffe an der Küste während des Turniers. Sind die Greywings noch in der Lage, Angland zu verteidigen? Rashimi ist beleidigt, dass er, obwohl er durch den Deadwood-Tree Erfahrungen hat, nicht bei der Suche nach der Ursache des Greifensterbens zu Rate gezogen wurde. Er bietet seine Hilfe an und benötigt dafür nur einen gesunden Greifen, z.B. Midnight. -> Vertagen
+- Konflikt: Das Turnier wird wegen des Brandes abgesagt. Während er Arbeiten am Palast zieht der Hofstaat in eine Sommerresidenz um. Bis alles vorbereitet ist, gewährt Foxington in Zweispitz Unterschlupf.
+
+- Talon starb während des Brandes. Grimmwald wird gerufen, um den Leichnam im Sinne der alten Wege zu bestatten. 
+- Konflikt: Die stillen Schwestern wollen den Leichnam (und dessen Besitztümer) an sich nehmen.
+- Konflikt: Talon war bereits vor dem Feuer Tod.
+
+- Margo will, dass Yamina sie nach Zweispitz begleitet. Sie hat Yamina als Opfer von Vermithrax auserkoren und will sie in der Nähe haben. Sie überträgt Yamina ein wichtiges Amt, um sie zu beschäftigen. Welches? Sollte Außenwirkung haben.
+- Chade ruft Yamina zu sich. Er macht sie rund, weil sie ihre Tarnung aufgegeben hat, erkannt wurde. Shadowfeather soll die Zeugin eliminieren.
+- Konflikt: Zwei Aufgaben zur gleichen Zeit. Zeugin ist ein unschuldiges Mädchen, aus der Familie eines letzten Verbündeten.
+
+- Welche Duty könnte Falcot in einen Konflikt stürzen? 
+- Margaret befiehlt, dass den verbliebenen Turnierteilnehmern die Ehre zu Teil wird, auf dem Weg nach Zweispitz ihre Ehrengarde zu sein.
+- Pflichten: Gegenüber der Krone, den alten Wegen, der Familie, Mutter. Ehre gegen Unehre. Pflicht gegen Ungehorsam.
+
+

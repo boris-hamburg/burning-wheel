@@ -194,11 +194,15 @@ Rote Haare
 Inspiration: Game of Thrones  
 Inspiration: Stark
 
+Duke of Farrow
+Mitglied der Star Chamber
 Greifenreiter. Wardens of the West. The Old Ways. Spirits of the Land.
 - Undercover Druide.
 - Mündel eines anderen Hauses.
 
 ##### Haus Oxham
+Duke of Shoaks
+Mitglied der Star Chamber
 Ziemlich reich, diese Oxhams.   
 Beliefern die Greywings mit Fleisch für ihre Greifen.
 Dickleibig.
@@ -206,6 +210,18 @@ Dickleibig.
 ##### Haus Stalwart
 
 ##### Haus Farseer
+
+##### Haus Tosny
+Duke of Bearns
+Mitglied der Star Chamber
+
+##### Haus Beaufort
+Duke of Rippon
+Mitglied der Star Chamber
+
+##### Haus Devonshire
+Duke of Tilth
+Mitglied der Star Chamber
 
 #### NSC
 
@@ -267,6 +283,13 @@ Ritterorden. Viel Bling Bling. Vom Volk geliebt verachten sie die Greifenreiter 
 Inspiration: Dark Albion
 
 Berater der Königin. Durch sie regiert die Königin in ihrem Interesse. Vornehmlich Team A. Es geht das Gerücht um, dass viele Mitglieder der Star Chamber Liebhaber der Königin sind.
+
+Fünf Baronien. Fünf Familien.
+- Bearns -> Tosny
+- Rippon -> Beaufort
+- Shoaks -> Oxham
+- Farrow -> Greywing
+- Tilth -> Devonshire
 
 ##### Parliament
 Inspiration: Dark Albion

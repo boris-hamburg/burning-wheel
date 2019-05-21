@@ -84,7 +84,6 @@
 ## Case 3
 
 - Brückentroll.
-- Arturs Abenteuer.
 - Kind über Brücke bringen. Als Kidnapper beschuldigt. Polizei auf der einen, Fluchtwagen auf der anderen Seite der Brücke.
 - Troll beansprucht das Kind für sich.
 
@@ -97,6 +96,40 @@
 - The Wolf of Wall Street
 - Werwolf
 - Tötet sein Ex-Geliebten
+
+## Case 6
+
+- Arturs Abenteuer.
+- Tote werden im Wasser gefunden.
+- Brückentroll erschlägt jeden, der seine Brücke überqueren will
+
+## Case 7
+
+- Nekromant in der Nachbarschaft
+
+## Case 8
+
+- Menschen verschwinden
+- Universelle Brüderschaft hilft Obdachtlosen.
+- Braucht Wirte für Insektengeister
+- Das alte Kraftwerk mit den vier Schornsteinen vor New York ist ein Nest
+- Army undercover
+- Outbreak. Manhattan wird abgeschottet.
+
+## Case 9
+
+- Song of the Siren
+
+## Case 10
+
+- Toxic-Monster
+- Überfällt Tanklaster mit Chemikalien.
+
+## Case 11
+
+- Monster ernährt sich vom Elend der Menschen
+- Crackhouse
+
 
 ### Ideen
 
@@ -123,3 +156,5 @@
 - Runtergekommenes Stundenhotel
 - Crack House
 - Werwolf Motorradgang
+- Grand Central Station
+- Kraftwerk mit den vier Türmen vor New York
